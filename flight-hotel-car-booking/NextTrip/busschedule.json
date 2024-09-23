@@ -1,0 +1,3188 @@
+{
+   "routes": [
+      {
+         "routeName": "Dhaka-Cox's Bazar",
+         "busCompanies": [
+            {
+               "companyName": "Hanif Enterprise",
+               "buses": [
+                  {
+                     "busNo": "H-101",
+                     "busSchedule": {
+                        "departureTime": "07:00",
+                        "arrivalTime": "15:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1200",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "H-102",
+                     "busSchedule": {
+                        "departureTime": "06:30",
+                        "arrivalTime": "14:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Gabtoli",
+                           "Kollanpur",
+                           "Panthapath",
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Soudia Coach Service",
+               "buses": [
+                  {
+                     "busNo": "S-201",
+                     "busSchedule": {
+                        "departureTime": "06:00",
+                        "arrivalTime": "13:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1200",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "S-202",
+                     "busSchedule": {
+                        "departureTime": "06:30",
+                        "arrivalTime": "14:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Rampura",
+                           "Badda",
+                           "Golapbag"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Royal Coach",
+               "buses": [
+                  {
+                     "busNo": "R-101",
+                     "busSchedule": {
+                        "departureTime": "20:30",
+                        "arrivalTime": "06:00",
+                        "pickupPoints": [
+                           "Arambag",
+                           "Sayedabad",
+                           "Shonir Akhra",
+                           "Sign Board"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1400",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "R-102",
+                     "busSchedule": {
+                        "departureTime": "21:20",
+                        "arrivalTime": "07:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Uttara",
+                           "Airport",
+                           "Mohakhali",
+                           "Arambag",
+                           "Sayedabad",
+                           "Shonir Akhra",
+                           "Sign Board"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1600",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "routeName": "Dhaka-Chittagong",
+         "busCompanies": [
+            {
+               "companyName": "Hanif Enterprise",
+               "buses": [
+                  {
+                     "busNo": "H-201",
+                     "busSchedule": {
+                        "departureTime": "13:00",
+                        "arrivalTime": "20:00",
+                        "pickupPoints": [
+                           "Gabtoli",
+                           "Kollanpur",
+                           "Kolabagan",
+                           "Fokirapool",
+                           "Sydabad"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "680",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "H-202",
+                     "busSchedule": {
+                        "departureTime": "13:30",
+                        "arrivalTime": "19:00",
+                        "pickupPoints": [
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1200",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Soudia Coach Service",
+               "buses": [
+                  {
+                     "busNo": "S-301",
+                     "busSchedule": {
+                        "departureTime": "14:15",
+                        "arrivalTime": "19:45",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Norda",
+                           "Fakirapool",
+                           "Sayedabad"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "650",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "S-302",
+                     "busSchedule": {
+                        "departureTime": "14:45",
+                        "arrivalTime": "20:45",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Norda",
+                           "Fakirapool",
+                           "Sayedabad"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "950",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Royal Coach",
+               "buses": [
+                  {
+                     "busNo": "R-201",
+                     "busSchedule": {
+                        "departureTime": "20:30",
+                        "arrivalTime": "02:00",
+                        "pickupPoints": [
+                           "Gabtoli",
+                           "Kollanpur",
+                           "Panthapath",
+                           "Arambag",
+                           "Chittagong Road"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "R-202",
+                     "busSchedule": {
+                        "departureTime": "21:00",
+                        "arrivalTime": "04:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Uttara",
+                           "Airport",
+                           "Mohakhali",
+                           "Arambag",
+                           "Sayedabad",
+                           "Shonir Akhra",
+                           "Sign Board"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "routeName": "Cox's Bazar-Dhaka",
+         "busCompanies": [
+            {
+               "companyName": "Hanif Enterprise",
+               "buses": [
+                  {
+                     "busNo": "H-101",
+                     "busSchedule": {
+                        "departureTime": "07:00",
+                        "arrivalTime": "15:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1200",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "H-102",
+                     "busSchedule": {
+                        "departureTime": "06:30",
+                        "arrivalTime": "14:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Gabtoli",
+                           "Kollanpur",
+                           "Panthapath",
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Soudia Coach Service",
+               "buses": [
+                  {
+                     "busNo": "S-201",
+                     "busSchedule": {
+                        "departureTime": "06:00",
+                        "arrivalTime": "13:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1200",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "S-202",
+                     "busSchedule": {
+                        "departureTime": "06:30",
+                        "arrivalTime": "14:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Rampura",
+                           "Badda",
+                           "Golapbag"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Royal Coach",
+               "buses": [
+                  {
+                     "busNo": "R-101",
+                     "busSchedule": {
+                        "departureTime": "20:30",
+                        "arrivalTime": "06:00",
+                        "pickupPoints": [
+                           "Arambag",
+                           "Sayedabad",
+                           "Shonir Akhra",
+                           "Sign Board"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1400",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "R-102",
+                     "busSchedule": {
+                        "departureTime": "21:20",
+                        "arrivalTime": "07:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Uttara",
+                           "Airport",
+                           "Mohakhali",
+                           "Arambag",
+                           "Sayedabad",
+                           "Shonir Akhra",
+                           "Sign Board"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1600",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "routeName": "Chittagong-Dhaka",
+         "busCompanies": [
+            {
+               "companyName": "Hanif Enterprise",
+               "buses": [
+                  {
+                     "busNo": "H-201",
+                     "busSchedule": {
+                        "departureTime": "13:00",
+                        "arrivalTime": "20:00",
+                        "pickupPoints": [
+                           "Gabtoli",
+                           "Kollanpur",
+                           "Kolabagan",
+                           "Fokirapool",
+                           "Sydabad"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "680",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "H-202",
+                     "busSchedule": {
+                        "departureTime": "13:30",
+                        "arrivalTime": "19:00",
+                        "pickupPoints": [
+                           "Arambag"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1200",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Soudia Coach Service",
+               "buses": [
+                  {
+                     "busNo": "S-301",
+                     "busSchedule": {
+                        "departureTime": "14:15",
+                        "arrivalTime": "19:45",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Norda",
+                           "Fakirapool",
+                           "Sayedabad"
+                        ]
+                     },
+                     "coachType": "Non-AC",
+                     "price": "650",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "S-302",
+                     "busSchedule": {
+                        "departureTime": "14:45",
+                        "arrivalTime": "20:45",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Norda",
+                           "Fakirapool",
+                           "Sayedabad"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "950",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "companyName": "Royal Coach",
+               "buses": [
+                  {
+                     "busNo": "R-201",
+                     "busSchedule": {
+                        "departureTime": "20:30",
+                        "arrivalTime": "02:00",
+                        "pickupPoints": [
+                           "Gabtoli",
+                           "Kollanpur",
+                           "Panthapath",
+                           "Arambag",
+                           "Chittagong Road"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  },
+                  {
+                     "busNo": "R-202",
+                     "busSchedule": {
+                        "departureTime": "21:00",
+                        "arrivalTime": "04:00",
+                        "pickupPoints": [
+                           "Abdullahpur",
+                           "Uttara",
+                           "Airport",
+                           "Mohakhali",
+                           "Arambag",
+                           "Sayedabad",
+                           "Shonir Akhra",
+                           "Sign Board"
+                        ]
+                     },
+                     "coachType": "AC",
+                     "price": "1000",
+                     "seats": [
+                        {
+                           "seatNumber": "1A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "1B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "1D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "2A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "2D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "3B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "3D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "4A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4B",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "4D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "5C",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "5D",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6A",
+                           "status": "Booked"
+                        },
+                        {
+                           "seatNumber": "6B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "6D",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7A",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7B",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7C",
+                           "status": "Available"
+                        },
+                        {
+                           "seatNumber": "7D",
+                           "status": "Available"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

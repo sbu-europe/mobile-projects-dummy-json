@@ -1,0 +1,2550 @@
+{
+    "carLocations": [
+        {
+            "latitude": 23.77695924969011,
+            "longitude": 90.39700328337875,
+            "rotation": 0,
+            "carName": "Toyota Prius",
+            "model": "2021",
+            "riderName": "Arifur Rahman",
+            "fuelType": "Petrol",
+            "gearType": "Automatic",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaprius_white.png?raw=true",
+            "successfulRides": 150,
+            "reviews": 120,
+            "rating": 4.8,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 250
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 260
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 200
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 380
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.77613113123303,
+            "longitude": 90.39247866297734,
+            "rotation": 90,
+            "carName": "Honda Civic",
+            "model": "2019",
+            "riderName": "Hasan Mahmud",
+            "fuelType": "Petrol",
+            "gearType": "Manual",
+            "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hondacivic_silver.png?raw=true",
+            "successfulRides": 200,
+            "reviews": 180,
+            "rating": 4.6,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 365
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 320
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 220
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.766429922374797,
+            "longitude": 90.401269354043,
+            "rotation": 180,
+            "carName": "Toyota Corolla",
+            "model": "2020",
+            "riderName": "Khalilur Rahman",
+            "fuelType": "Gas",
+            "gearType": "Automatic",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotacorolla_white.png?raw=true",
+            "successfulRides": 180,
+            "reviews": 155,
+            "rating": 4.7,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 370
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 270
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 390
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 310
+                }
+            ]
+        },
+        {
+            "latitude": 23.774356573926013,
+            "longitude": 90.41122351892608,
+            "rotation": 90,
+            "carName": "Toyota Axio",
+            "model": "2022",
+            "riderName": "Rashedul Islam",
+            "fuelType": "Petrol",
+            "gearType": "Automatic",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaaxio_white.png?raw=true",
+            "successfulRides": 90,
+            "reviews": 83,
+            "rating": 4.5,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 250
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 360
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 285
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 270
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 350
+                }
+            ]
+        },
+        {
+            "latitude": 23.77908867293702,
+            "longitude": 90.40592324931299,
+            "rotation": -90,
+            "carName": "Nissan Sunny",
+            "model": "2021",
+            "riderName": "Mohammad Tanvir",
+            "fuelType": "Gas",
+            "gearType": "Automatic",
+            "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_red.png?raw=true",
+            "successfulRides": 120,
+            "reviews": 97,
+            "rating": 4.9,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 360
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 290
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 390
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 350
+                }
+            ]
+        },
+        {
+            "latitude": 23.788788937544666,
+            "longitude": 90.3887296917876,
+            "rotation": 0,
+            "carName": "Toyota Premio",
+            "model": "2018",
+            "riderName": "Aminul Islam",
+            "fuelType": "Petrol",
+            "gearType": "Automatic",
+            "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_red.png?raw=true",
+            "successfulRides": 160,
+            "reviews": 131,
+            "rating": 4.4,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 360
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 220
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 300
+                }
+            ]
+        },
+        {
+            "latitude": 23.804639031342276,
+            "longitude": 90.39713255824739,
+            "rotation": 0,
+            "carName": "Toyota Allion",
+            "model": "2017",
+            "riderName": "Riyad Uddin",
+            "fuelType": "Petrol",
+            "gearType": "Manual",
+            "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaallion_silver.png?raw=true",
+            "successfulRides": 140,
+            "reviews": 128,
+            "rating": 4.3,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 250
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 260
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 200
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 380
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.824250724150644,
+            "longitude": 90.40782222028639,
+            "rotation": 180,
+            "carName": "Suzuki Alto",
+            "model": "2019",
+            "riderName": "Mofizur Rahman",
+            "fuelType": "Gas",
+            "gearType": "Manual",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/suzukialto_white.png?raw=true",
+            "successfulRides": 100,
+            "reviews": 88,
+            "rating": 4.7,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 365
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 320
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 220
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.819524907748303,
+            "longitude": 90.43661950497864,
+            "rotation": 90,
+            "carName": "Toyota Corolla",
+            "model": "2020",
+            "riderName": "Rashedul Islam",
+            "fuelType": "Petrol",
+            "gearType": "Automatic",
+            "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotacorolla_silver.png?raw=true",
+            "successfulRides": 110,
+            "reviews": 98,
+            "rating": 4.8,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 365
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 320
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 220
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.81138001182734,
+            "longitude": 90.39056583213107,
+            "rotation": -90,
+            "carName": "Toyota Premio",
+            "model": "2016",
+            "riderName": "Shafiqur Rahman",
+            "fuelType": "Diesel",
+            "gearType": "Manual",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_white.png?raw=true",
+            "successfulRides": 130,
+            "reviews": 108,
+            "rating": 4.4,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 370
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 270
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 390
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 310
+                }
+            ]
+        },
+        {
+            "latitude": 23.795591536412374,
+            "longitude": 90.37078143806764,
+            "rotation": -90,
+            "carName": "Nissan Sunny",
+            "model": "2015",
+            "riderName": "Khalid Sheikh",
+            "fuelType": "Diesel",
+            "gearType": "Manual",
+            "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_red.png?raw=true",
+            "successfulRides": 80,
+            "reviews": 56,
+            "rating": 4.2,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 250
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 260
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 200
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 380
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.78211450465139,
+            "longitude": 90.37704649618775,
+            "rotation": 180,
+            "carName": "Honda Civic",
+            "model": "2020",
+            "riderName": "Nasir Uddin",
+            "fuelType": "Diesel",
+            "gearType": "Automatic",
+            "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hondacivic_silver.png?raw=true",
+            "successfulRides": 75,
+            "reviews": 62,
+            "rating": 4.3,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 370
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 270
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 390
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 310
+                }
+            ]
+        },
+        {
+            "latitude": 23.739360947758215,
+            "longitude": 90.37297970407468,
+            "rotation": 0,
+            "carName": "Toyota Axio",
+            "model": "2018",
+            "riderName": "Faridul Islam",
+            "fuelType": "Petrol",
+            "gearType": "Manual",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaaxio_white.png?raw=true",
+            "successfulRides": 90,
+            "reviews": 67,
+            "rating": 4.1,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 250
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 260
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 200
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 380
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.74751035584785,
+            "longitude": 90.3750680567814,
+            "rotation": 0,
+            "carName": "Hyundai Elantra",
+            "model": "2017",
+            "riderName": "Mohammad Alim",
+            "fuelType": "Diesel",
+            "gearType": "Manual",
+            "color": "Gray",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hyundaielatra_gray.png?raw=true",
+            "successfulRides": 85,
+            "reviews": 72,
+            "rating": 4.2,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 370
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 270
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 390
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 310
+                }
+            ]
+        },
+        {
+            "latitude": 23.76260050567616,
+            "longitude": 90.36671464595463,
+            "rotation": 180,
+            "carName": "Toyota Premio",
+            "model": "2019",
+            "riderName": "Shah Alam",
+            "fuelType": "Diesel",
+            "gearType": "Manual",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotapremio_white.png?raw=true",
+            "successfulRides": 95,
+            "reviews": 75,
+            "rating": 4.6,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 365
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 320
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 220
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.744592725127305,
+            "longitude": 90.41024031289413,
+            "rotation": 180,
+            "carName": "Toyota Allion",
+            "model": "2021",
+            "riderName": "Imran Ahmed",
+            "fuelType": "Petrol",
+            "gearType": "Automatic",
+            "color": "White",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/toyotaallion_white.png?raw=true",
+            "successfulRides": 120,
+            "reviews": 103,
+            "rating": 4.7,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 365
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 320
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 220
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 400
+                },
+                {
+                    "fromLocation": {
+                        "name": "Werless Gate Mohakhali",
+                        "latitude": 23.7790335,
+                        "longitude": 90.4016517
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.751836377635172,
+            "longitude": 90.40782222028639,
+            "rotation": 90,
+            "carName": "Suzuki Alto",
+            "model": "2020",
+            "riderName": "Hasan Mahmud",
+            "fuelType": "Gas",
+            "gearType": "Automatic",
+            "color": "Red",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/suzukialto_red.png?raw=true",
+            "successfulRides": 105,
+            "reviews": 92,
+            "rating": 4.5,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 370
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 270
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 390
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 310
+                }
+            ]
+        },
+        {
+            "latitude": 23.752540600137394,
+            "longitude": 90.39342357794021,
+            "rotation": -90,
+            "carName": "Hyundai Elantra",
+            "model": "2018",
+            "riderName": "Jamal Hossain",
+            "fuelType": "Petrol",
+            "gearType": "Manual",
+            "color": "Gray",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/hyundaielatra_gray.png?raw=true",
+            "successfulRides": 115,
+            "reviews": 95,
+            "rating": 4.4,
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 250
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 350
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 300
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 260
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 200
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 380
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali",
+                        "latitude": 23.7777689,
+                        "longitude": 90.3958427
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 330
+                }
+            ]
+        },
+        {
+            "latitude": 23.737147440235418,
+            "longitude": 90.39551193064688,
+            "rotation": -90,
+            "carName": "Nissan Sunny",
+            "model": "2019",
+            "successfulRides": 90,
+            "reviews": 78,
+            "rating": 4.3,
+            "riderName": "Ravi Chandra",
+            "fuelType": "Diesel",
+            "gearType": "Automatic",
+            "color": "Silver",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/CarImage/nissansunny_silver.png?raw=true",
+            "availableRoutes": [
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 340
+                },
+                {
+                    "fromLocation": {
+                        "name": "Banani Super Market",
+                        "latitude": 23.7862927,
+                        "longitude": 90.394737
+                    },
+                    "toLocation": {
+                        "name": "Zigatola Bus Stand",
+                        "latitude": 23.7609155,
+                        "longitude": 90.3416654
+                    },
+                    "price": 280
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Golapbagh Bus Stand",
+                        "latitude": 23.7199034,
+                        "longitude": 90.4183175
+                    },
+                    "price": 370
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Motijheel",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 330
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Arambag",
+                        "latitude": 23.735487,
+                        "longitude": 90.4079861
+                    },
+                    "price": 310
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Komolapur",
+                        "latitude": 23.733324,
+                        "longitude": 90.4239684
+                    },
+                    "price": 270
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Dhaka University",
+                        "latitude": 23.7339532,
+                        "longitude": 90.3903449
+                    },
+                    "price": 210
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Sayedabad Bus Terminal",
+                        "latitude": 23.7197268,
+                        "longitude": 90.4150382
+                    },
+                    "price": 390
+                },
+                {
+                    "fromLocation": {
+                        "name": "Mohakhali DOHS",
+                        "latitude": 23.7996,
+                        "longitude": 90.4205
+                    },
+                    "toLocation": {
+                        "name": "Mirpur 10",
+                        "latitude": 23.807244,
+                        "longitude": 90.3661186
+                    },
+                    "price": 310
+                }
+            ]
+        }
+    ]
+}

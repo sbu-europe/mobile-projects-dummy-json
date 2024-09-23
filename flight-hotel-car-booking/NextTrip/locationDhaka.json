@@ -1,0 +1,209 @@
+{
+    "locations": [
+        {
+            "name": "National Museum (Bangladesh National Museum)",
+            "latitude": 23.737465,
+            "longitude": 90.3923056
+        },
+        {
+            "name": "Ahsan Manzil (Pink Palace)",
+            "latitude": 23.7085513,
+            "longitude": 90.4034525
+        },
+        {
+            "name": "Lalbagh Fort",
+            "latitude": 23.7188654,
+            "longitude": 90.3855793
+        },
+        {
+            "name": "Jatiyo Sangsad Bhaban (National Parliament House)",
+            "latitude": 23.7624857,
+            "longitude": 90.3760423
+        },
+        {
+            "name": "Dhaka University",
+            "latitude": 23.7339532,
+            "longitude": 90.3903449
+        },
+        {
+            "name": "Baitul Mukarram Mosque",
+            "latitude": 23.7293927,
+            "longitude": 90.4121504
+        },
+        {
+            "name": "Suhrawardy Udyan",
+            "latitude": 23.732244,
+            "longitude": 90.3973323
+        },
+        {
+            "name": "Banani Super Market",
+            "latitude": 23.7862927,
+            "longitude": 90.394737
+        },
+        {
+            "name": "Mirpur Cantonment Public School and College",
+            "latitude": 23.8350514,
+            "longitude": 90.3208264
+        },
+        {
+            "name": "Zigatola Bus Stand",
+            "latitude": 23.7609155,
+            "longitude": 90.3416654
+        },
+        {
+            "name": "Dhanmondi - 15 Bus Stand",
+            "latitude": 23.7609155,
+            "longitude": 90.3416654
+        },
+        {
+            "name": "Gulistan",
+            "latitude": 23.7228094,
+            "longitude": 90.4107813
+        },
+        {
+            "name": "Bongo Bazar",
+            "latitude": 23.724931,
+            "longitude": 90.404623
+        },
+        {
+            "name": "Shahbagh",
+            "latitude": 23.7381249,
+            "longitude": 90.3931637
+        },
+        {
+            "name": "LABAID Specialized Hospital",
+            "latitude": 23.7402452,
+            "longitude": 90.3850581
+        },
+        {
+            "name": "Karwan Bazar",
+            "latitude": 23.7500209,
+            "longitude": 90.3906027
+        },
+        {
+            "name": "Bashundhara City Shopping Complex",
+            "latitude": 23.7500209,
+            "longitude": 90.3906027
+        },
+        {
+            "name": "Motijheel",
+            "latitude": 23.735487,
+            "longitude": 90.4079861
+        },
+        {
+            "name": "Arambag",
+            "latitude": 23.735487,
+            "longitude": 90.4079861
+        },
+        {
+            "name": "Komolapur",
+            "latitude": 23.733324,
+            "longitude": 90.4239684
+        },
+        {
+            "name": "Sayedabad Bus Terminal",
+            "latitude": 23.7197268,
+            "longitude": 90.4150382
+        },
+        {
+            "name": "Golapbagh Bus Stand",
+            "latitude": 23.7199034,
+            "longitude": 90.4183175
+        },
+        {
+            "name": "Mohakhali",
+            "latitude": 23.7777689,
+            "longitude": 90.3958427
+        },
+        {
+            "name": "Werless Gate Mohakhali",
+            "latitude": 23.7790335,
+            "longitude": 90.4016517
+        },
+        {
+            "name": "Mirpur 10",
+            "latitude": 23.807244,
+            "longitude": 90.3661186
+        },
+        {
+            "name": "Shewrapara",
+            "latitude": 23.7923524,
+            "longitude": 90.3727919
+        },
+        {
+            "name": "Kazipara",
+            "latitude": 23.7970939,
+            "longitude": 90.3713543
+        },
+        {
+            "name": "Pallabi,Mirpur-12",
+            "latitude": 23.8283131,
+            "longitude": 90.3642873
+        },
+        {
+            "name": "Mirpur DOHS",
+            "latitude": 23.8375284,
+            "longitude": 90.3635791
+        },
+        {
+            "name": "Mohakhali DOHS",
+            "latitude": 23.7996,
+            "longitude": 90.4205
+        },
+        {
+            "name": "Airport",
+            "latitude": 23.8485,
+            "longitude": 90.3974
+        },
+        {
+            "name": "TSC (Teacher-Student Center)",
+            "latitude": 23.7112,
+            "longitude": 90.4076
+        },
+        {
+            "name": "Sohid Minar",
+            "latitude": 23.8105,
+            "longitude": 90.4072
+        },
+        {
+            "name": "Dhaka Medical College",
+            "latitude": 23.8106,
+            "longitude": 90.4118
+        },
+        {
+            "name": "New Market",
+            "latitude": 23.7503,
+            "longitude": 90.3744
+        },
+        {
+            "name": "City College",
+            "latitude": 23.7461,
+            "longitude": 90.3692
+        },
+        {
+            "name": "Farmgate",
+            "latitude": 23.7464,
+            "longitude": 90.3851
+        },
+        {
+            "name": "Mohammadpur",
+            "latitude": 23.749,
+            "longitude": 90.3567
+        },
+        {
+            "name": "Rampura",
+            "latitude": 23.7572,
+            "longitude": 90.4079
+        },
+        {
+            "name": "Badda",
+            "latitude": 23.7943,
+            "longitude": 90.4003
+        },
+        {
+            "name": "Bonusree",
+            "latitude": 23.7674,
+            "longitude": 90.3976
+        }
+    ]
+}

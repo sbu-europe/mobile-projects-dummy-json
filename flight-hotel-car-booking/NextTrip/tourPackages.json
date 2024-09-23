@@ -1,0 +1,1887 @@
+{
+    "tourPackages": [
+        {
+            "id": "TP001",
+            "name": "Exotic Beach Getaway",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_1.jpg?raw=true",
+            "overview": "Experience a blissful escape to the stunning beaches of the Maldives. Perfect for couples, families, or friends looking to unwind and explore beautiful underwater worlds.",
+            "description": "Enjoy a week of sun, sand, and relaxation at one of the most beautiful beaches in the world, with luxurious accommodations and exciting activities.",
+            "duration": "7 days",
+            "price": 1499.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 5
+            },
+            "destination": {
+                "country": "Maldives",
+                "city": "Malé",
+                "highlights": [
+                    "Crystal clear waters",
+                    "Private beachfront villas",
+                    "Snorkeling and diving experiences",
+                    "Spa and wellness activities"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival at Malé International Airport and transfer to resort."
+                },
+                {
+                    "day": 2,
+                    "activity": "Relax at the beach and enjoy welcome dinner."
+                },
+                {
+                    "day": 3,
+                    "activity": "Snorkeling trip to nearby coral reefs."
+                },
+                {
+                    "day": 4,
+                    "activity": "Full-day excursion to a local island."
+                },
+                {
+                    "day": 5,
+                    "activity": "Spa day and wellness activities."
+                },
+                {
+                    "day": 6,
+                    "activity": "Optional diving lesson or sunset cruise."
+                },
+                {
+                    "day": 7,
+                    "activity": "Check out and transfer back to Malé International Airport."
+                }
+            ],
+            "inclusions": [
+                "Round trip airfare",
+                "Accommodation in a luxury resort",
+                "Daily breakfast",
+                "Airport transfers",
+                "Guided tours and activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses",
+                "Meals not mentioned"
+            ],
+            "requirements": [
+                "Valid passport",
+                "Visa (if required)",
+                "Health insurance"
+            ]
+        },
+        {
+            "id": "TP002",
+            "name": "Dubai City Adventure",
+            "overview": "Explore the vibrant city of Dubai, known for its modern architecture and rich culture. Ideal for families and adventure seekers.",
+            "description": "Experience the blend of tradition and modernity in Dubai with thrilling attractions and cultural excursions.",
+            "duration": "5 days",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/dubai_1.jpg?raw=true",
+            "price": 1099.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "UAE",
+                "city": "Dubai",
+                "highlights": [
+                    "Burj Khalifa visit",
+                    "Desert safari",
+                    "Dubai Mall and aquarium",
+                    "Cultural heritage tours"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and city tour."
+                },
+                {
+                    "day": 2,
+                    "activity": "Visit Burj Khalifa and Dubai Mall."
+                },
+                {
+                    "day": 3,
+                    "activity": "Desert safari with dinner."
+                },
+                {
+                    "day": 4,
+                    "activity": "Visit Global Village and cultural heritage sites."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Desert safari"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport",
+                "Visa (if required)"
+            ]
+        },
+        {
+            "id": "TP003",
+            "name": "Kashmir Honeymoon Retreat",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/kashmir_1.jpg?raw=true",
+            "overview": "Discover the romantic landscapes of Kashmir, perfect for newlyweds seeking serenity and beauty.",
+            "description": "Experience the charm of Kashmir with breathtaking views, tranquil gardens, and cozy houseboats.",
+            "duration": "6 days",
+            "price": 899.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 2
+            },
+            "destination": {
+                "country": "India",
+                "city": "Srinagar",
+                "highlights": [
+                    "Shikara ride on Dal Lake",
+                    "Visit Mughal Gardens",
+                    "Explore Pahalgam and Gulmarg"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival in Srinagar and Shikara ride."
+                },
+                {
+                    "day": 2,
+                    "activity": "Visit Mughal Gardens."
+                },
+                {
+                    "day": 3,
+                    "activity": "Excursion to Pahalgam."
+                },
+                {
+                    "day": 4,
+                    "activity": "Explore Gulmarg and return."
+                },
+                {
+                    "day": 5,
+                    "activity": "Leisure day in Srinagar."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation in a houseboat",
+                "Airport transfers",
+                "Daily breakfast",
+                "Shikara ride"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP004",
+            "name": "Family Fun in Manali",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/manali_3.jpg?raw=true",
+            "overview": "A family-friendly adventure in the stunning mountains of Manali, perfect for all ages.",
+            "description": "Enjoy thrilling outdoor activities, beautiful landscapes, and quality time with family in the serene hills of Manali.",
+            "duration": "5 days",
+            "price": 799.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 3,
+                "max": 5
+            },
+            "destination": {
+                "country": "India",
+                "city": "Manali",
+                "highlights": [
+                    "Solang Valley adventure sports",
+                    "Visit Rohtang Pass",
+                    "Explore local markets"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Adventure sports at Solang Valley."
+                },
+                {
+                    "day": 3,
+                    "activity": "Day trip to Rohtang Pass."
+                },
+                {
+                    "day": 4,
+                    "activity": "Explore local markets and temples."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Adventure sports"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP005",
+            "name": "Phi Phi Island Paradise",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/phiphi_1.jpg?raw=true",
+            "overview": "Escape to the stunning Phi Phi Islands, perfect for beach lovers and adventure enthusiasts.",
+            "description": "Experience crystal-clear waters, vibrant marine life, and breathtaking scenery on this tropical getaway.",
+            "duration": "6 days",
+            "price": 1299.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 5
+            },
+            "destination": {
+                "country": "Thailand",
+                "city": "Phi Phi Islands",
+                "highlights": [
+                    "Snorkeling at Maya Bay",
+                    "Island hopping tours",
+                    "Relaxing beach time"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and settle in resort."
+                },
+                {
+                    "day": 2,
+                    "activity": "Snorkeling trip to Maya Bay."
+                },
+                {
+                    "day": 3,
+                    "activity": "Island hopping tour."
+                },
+                {
+                    "day": 4,
+                    "activity": "Leisure day at the beach."
+                },
+                {
+                    "day": 5,
+                    "activity": "Explore local markets."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Snorkeling trip"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP006",
+            "name": "Gangtok Family Adventure",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/gangtok_3.jpg?raw=true",
+            "overview": "Discover the beauty of Gangtok, perfect for families seeking nature and culture.",
+            "description": "Enjoy the scenic views, vibrant culture, and adventure activities in the heart of Sikkim.",
+            "duration": "5 days",
+            "price": 899.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 3,
+                "max": 5
+            },
+            "destination": {
+                "country": "India",
+                "city": "Gangtok",
+                "highlights": [
+                    "Visit Tsomgo Lake",
+                    "Explore Nathu La Pass",
+                    "Local market tours"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Excursion to Tsomgo Lake."
+                },
+                {
+                    "day": 3,
+                    "activity": "Visit Nathu La Pass."
+                },
+                {
+                    "day": 4,
+                    "activity": "Explore local markets."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Excursions"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP007",
+            "name": "Cox's Bazar Beach Retreat",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_couple.jpg?raw=true",
+            "overview": "Unwind at Cox's Bazar, the longest natural sea beach in the world, perfect for families and beach lovers.",
+            "description": "Relax on sandy beaches, enjoy water sports, and explore the local culture in this picturesque destination.",
+            "duration": "4 days",
+            "price": 699.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Cox's Bazar",
+                "highlights": [
+                    "Beach activities",
+                    "Visit Himchari National Park",
+                    "Local seafood tasting"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and beach time."
+                },
+                {
+                    "day": 2,
+                    "activity": "Water sports and activities."
+                },
+                {
+                    "day": 3,
+                    "activity": "Visit Himchari National Park."
+                },
+                {
+                    "day": 4,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Water sports"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP008",
+            "name": "Sylhet Cultural Journey",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/sylhet_3.jpg?raw=true",
+            "overview": "Experience the lush landscapes and tea gardens of Sylhet, ideal for cultural enthusiasts and nature lovers.",
+            "description": "Discover the rich heritage and stunning scenery of Sylhet with guided tours and local experiences.",
+            "duration": "5 days",
+            "price": 799.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 5
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Sylhet",
+                "highlights": [
+                    "Visit tea gardens",
+                    "Explore Ratargul Swamp Forest",
+                    "Local cuisine tasting"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Visit tea gardens and factories."
+                },
+                {
+                    "day": 3,
+                    "activity": "Explore Ratargul Swamp Forest."
+                },
+                {
+                    "day": 4,
+                    "activity": "Cultural tours and local cuisine."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Guided tours"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP009",
+            "name": "Dubai Luxury Escape",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/dubai_2.jpg?raw=true",
+            "overview": "Indulge in luxury with a 5-star experience in Dubai, ideal for couples and luxury travelers.",
+            "description": "Stay in premium accommodations, enjoy fine dining, and experience the best of Dubai's opulence.",
+            "duration": "5 days",
+            "price": 1999.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 4
+            },
+            "destination": {
+                "country": "UAE",
+                "city": "Dubai",
+                "highlights": [
+                    "Stay at Burj Al Arab",
+                    "Private yacht cruise",
+                    "Dinner at a rooftop restaurant",
+                    "Luxury shopping experiences"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and check-in at Burj Al Arab."
+                },
+                {
+                    "day": 2,
+                    "activity": "Private yacht cruise with lunch."
+                },
+                {
+                    "day": 3,
+                    "activity": "Shopping day at Dubai Mall."
+                },
+                {
+                    "day": 4,
+                    "activity": "Dinner at a rooftop restaurant with views of the Burj Khalifa."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation in luxury hotel",
+                "Private transfers",
+                "Daily breakfast",
+                "Yacht cruise"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport",
+                "Visa (if required)"
+            ]
+        },
+        {
+            "id": "TP010",
+            "name": "Kashmir Adventure Trek",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/kashmir_2.jpg?raw=true",
+            "overview": "An adventurous trekking experience in Kashmir, perfect for outdoor enthusiasts and nature lovers.",
+            "description": "Explore the breathtaking landscapes of Kashmir with guided treks through its stunning valleys.",
+            "duration": "8 days",
+            "price": 1099.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 10
+            },
+            "destination": {
+                "country": "India",
+                "city": "Srinagar",
+                "highlights": [
+                    "Trekking in Sonamarg",
+                    "Camping by the river",
+                    "Visit Betaab Valley"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival in Srinagar and transfer to hotel."
+                },
+                {
+                    "day": 2,
+                    "activity": "Trek to Sonamarg, set up camp."
+                },
+                {
+                    "day": 3,
+                    "activity": "Explore the Thajiwas Glacier."
+                },
+                {
+                    "day": 4,
+                    "activity": "Trek to Betaab Valley."
+                },
+                {
+                    "day": 5,
+                    "activity": "Relax and explore local culture."
+                },
+                {
+                    "day": 6,
+                    "activity": "Return trek to Srinagar."
+                },
+                {
+                    "day": 7,
+                    "activity": "Leisure day in Srinagar."
+                },
+                {
+                    "day": 8,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Meals during trek",
+                "Guided trekking tours"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport",
+                "Physical fitness for trekking"
+            ]
+        },
+        {
+            "id": "TP011",
+            "name": "Manali Adventure Sports",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/manali_2.jpg?raw=true",
+            "overview": "Thrilling adventure sports in Manali for adventure seekers and families.",
+            "description": "Experience a mix of adventure and relaxation with activities like paragliding, rafting, and more.",
+            "duration": "6 days",
+            "price": 899.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 3,
+                "max": 6
+            },
+            "destination": {
+                "country": "India",
+                "city": "Manali",
+                "highlights": [
+                    "Paragliding in Solang Valley",
+                    "River rafting in Beas River",
+                    "Visit Hadimba Temple"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Paragliding at Solang Valley."
+                },
+                {
+                    "day": 3,
+                    "activity": "River rafting on Beas River."
+                },
+                {
+                    "day": 4,
+                    "activity": "Visit Hadimba Temple and Vashisht Springs."
+                },
+                {
+                    "day": 5,
+                    "activity": "Day trip to Kullu and Manikaran."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Adventure activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP012",
+            "name": "Phi Phi Island Luxury Retreat",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/phiphi_2.jpg?raw=true",
+            "overview": "A luxurious escape to Phi Phi Islands, ideal for couples and honeymooners.",
+            "description": "Indulge in luxury accommodations and private experiences amidst stunning landscapes.",
+            "duration": "5 days",
+            "price": 1599.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 4
+            },
+            "destination": {
+                "country": "Thailand",
+                "city": "Phi Phi Islands",
+                "highlights": [
+                    "Stay in a private villa",
+                    "Private island tour",
+                    "Candlelight beach dinner"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and check-in at the private villa."
+                },
+                {
+                    "day": 2,
+                    "activity": "Private island tour with snorkeling."
+                },
+                {
+                    "day": 3,
+                    "activity": "Relaxing day at the beach."
+                },
+                {
+                    "day": 4,
+                    "activity": "Candlelight dinner on the beach."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Luxury accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Private tours"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP013",
+            "name": "Gangtok Spiritual Retreat",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/gangtok_2.jpg?raw=true",
+            "overview": "A spiritual journey through Gangtok, perfect for those seeking peace and tranquility.",
+            "description": "Explore monasteries, beautiful landscapes, and experience the serenity of the Himalayas.",
+            "duration": "5 days",
+            "price": 799.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "India",
+                "city": "Gangtok",
+                "highlights": [
+                    "Visit Rumtek Monastery",
+                    "Explore Enchey Monastery",
+                    "Meditation sessions"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Visit Rumtek Monastery."
+                },
+                {
+                    "day": 3,
+                    "activity": "Explore Enchey Monastery."
+                },
+                {
+                    "day": 4,
+                    "activity": "Meditation and yoga sessions."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Guided monastery tours"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP014",
+            "name": "Cox's Bazar Family Beach Fun",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'cox'sbazar_seabeach.jpeg?raw=true",
+            "overview": "A fun-filled family beach vacation at Cox's Bazar, perfect for all ages.",
+            "description": "Enjoy beach activities, local culture, and relaxation in one of the world's longest beaches.",
+            "duration": "5 days",
+            "price": 799.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 3,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Cox's Bazar",
+                "highlights": [
+                    "Beach games and activities",
+                    "Visit Himchari National Park",
+                    "Local cuisine tasting"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and beach time."
+                },
+                {
+                    "day": 2,
+                    "activity": "Beach games and activities."
+                },
+                {
+                    "day": 3,
+                    "activity": "Visit Himchari National Park."
+                },
+                {
+                    "day": 4,
+                    "activity": "Cultural tours and local cuisine."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Beach activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP015",
+            "name": "Sylhet Tea Garden Experience",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/sylhet_2.jpg?raw=true",
+            "overview": "A cultural and scenic journey through Sylhet's famous tea gardens, ideal for nature lovers.",
+            "description": "Explore lush tea estates, visit waterfalls, and enjoy the local cuisine.",
+            "duration": "4 days",
+            "price": 649.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Sylhet",
+                "highlights": [
+                    "Tea garden tours",
+                    "Visit Lawachara National Park",
+                    "Waterfall visits"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Tea garden tours and tastings."
+                },
+                {
+                    "day": 3,
+                    "activity": "Visit Lawachara National Park."
+                },
+                {
+                    "day": 4,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Tea tastings"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP016",
+            "name": "Dubai Thrills and Chill",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/dubai_3.jpg?raw=true",
+            "overview": "A perfect blend of adventure and relaxation in Dubai, ideal for thrill-seekers and leisure travelers.",
+            "description": "Experience the adrenaline rush of desert adventures alongside luxurious downtime at the beach.",
+            "duration": "6 days",
+            "price": 1399.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 5
+            },
+            "destination": {
+                "country": "UAE",
+                "city": "Dubai",
+                "highlights": [
+                    "Skydiving over Palm Jumeirah",
+                    "Desert camping with stargazing",
+                    "Visit Atlantis Aquaventure Waterpark",
+                    "Explore Old Dubai and spice markets"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and check-in."
+                },
+                {
+                    "day": 2,
+                    "activity": "Skydiving experience."
+                },
+                {
+                    "day": 3,
+                    "activity": "Desert safari with dinner."
+                },
+                {
+                    "day": 4,
+                    "activity": "Day at Atlantis Aquaventure Waterpark."
+                },
+                {
+                    "day": 5,
+                    "activity": "Explore Old Dubai and spice markets."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Skydiving and desert safari"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport",
+                "Visa (if required)",
+                "Weight restrictions for skydiving"
+            ]
+        },
+        {
+            "id": "TP017",
+            "name": "Kashmir Family Adventure",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/kashmir_3.jpg?raw=true",
+            "overview": "A fun-filled family adventure in the enchanting landscapes of Kashmir.",
+            "description": "Engage in outdoor activities and explore the breathtaking beauty of the Valley together.",
+            "duration": "7 days",
+            "price": 1099.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 4,
+                "max": 8
+            },
+            "destination": {
+                "country": "India",
+                "city": "Srinagar",
+                "highlights": [
+                    "Visit Dachigam National Park",
+                    "Gondola ride in Gulmarg",
+                    "Horse riding in Pahalgam",
+                    "Shikara ride on Dal Lake"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Day trip to Dachigam National Park."
+                },
+                {
+                    "day": 3,
+                    "activity": "Gondola ride in Gulmarg."
+                },
+                {
+                    "day": 4,
+                    "activity": "Horse riding in Pahalgam."
+                },
+                {
+                    "day": 5,
+                    "activity": "Leisure day in Srinagar."
+                },
+                {
+                    "day": 6,
+                    "activity": "Shikara ride on Dal Lake."
+                },
+                {
+                    "day": 7,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "National Park entry fees"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP018",
+            "name": "Manali Snow Adventure",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/manali_1.jpg?raw=true",
+            "overview": "A winter wonderland experience in Manali for snow lovers and adventure enthusiasts.",
+            "description": "Enjoy skiing, snowboarding, and other winter activities in the beautiful Himalayan landscape.",
+            "duration": "6 days",
+            "price": 999.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "India",
+                "city": "Manali",
+                "highlights": [
+                    "Skiing and snowboarding in Solang Valley",
+                    "Visit Rohtang Pass",
+                    "Snow trekking",
+                    "Visit local monasteries"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Skiing in Solang Valley."
+                },
+                {
+                    "day": 3,
+                    "activity": "Snowboarding lessons."
+                },
+                {
+                    "day": 4,
+                    "activity": "Day trip to Rohtang Pass."
+                },
+                {
+                    "day": 5,
+                    "activity": "Explore local monasteries."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Ski equipment rental"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof",
+                "Warm clothing"
+            ]
+        },
+        {
+            "id": "TP019",
+            "name": "Phi Phi Island Romantic Getaway",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/phiphi_3.jpg?raw=true",
+            "overview": "A dreamy escape to Phi Phi Islands for couples and honeymooners.",
+            "description": "Enjoy intimate experiences, stunning views, and relaxation in a beautiful tropical setting.",
+            "duration": "5 days",
+            "price": 1799.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 4
+            },
+            "destination": {
+                "country": "Thailand",
+                "city": "Phi Phi Islands",
+                "highlights": [
+                    "Private sunset cruise",
+                    "Candlelight dinner on the beach",
+                    "Couples spa treatment",
+                    "Visit Maya Bay"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and check-in at resort."
+                },
+                {
+                    "day": 2,
+                    "activity": "Private sunset cruise."
+                },
+                {
+                    "day": 3,
+                    "activity": "Relaxing couples spa treatment."
+                },
+                {
+                    "day": 4,
+                    "activity": "Candlelight dinner on the beach."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Luxury accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Private cruise"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP020",
+            "name": "Gangtok Nature and Culture Tour",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/gangtok_1.jpg?raw=true",
+            "overview": "A delightful mix of nature and culture in Gangtok, perfect for families and nature lovers.",
+            "description": "Explore the stunning landscapes and rich culture of Sikkim through guided tours and local experiences.",
+            "duration": "6 days",
+            "price": 899.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "India",
+                "city": "Gangtok",
+                "highlights": [
+                    "Visit Tsomgo Lake and Baba Mandir",
+                    "Explore local markets",
+                    "Visit Nathula Pass",
+                    "Cultural shows and local cuisine tasting"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Visit Tsomgo Lake and Baba Mandir."
+                },
+                {
+                    "day": 3,
+                    "activity": "Excursion to Nathula Pass."
+                },
+                {
+                    "day": 4,
+                    "activity": "Explore local markets."
+                },
+                {
+                    "day": 5,
+                    "activity": "Cultural shows and cuisine tasting."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Guided tours"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP021",
+            "name": "Cox's Bazar Beach Adventure",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_resort.jpg?raw=true",
+            "overview": "An exciting beach adventure at Cox's Bazar, perfect for families and water sports enthusiasts.",
+            "description": "Engage in thrilling beach activities and explore the local culture in one of the longest beaches in the world.",
+            "duration": "5 days",
+            "price": 899.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 3,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Cox's Bazar",
+                "highlights": [
+                    "Beach volleyball and soccer",
+                    "Water sports like jet skiing and banana boat rides",
+                    "Visit Himchari National Park",
+                    "Sunset photography at the beach"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and beach time."
+                },
+                {
+                    "day": 2,
+                    "activity": "Beach volleyball and soccer games."
+                },
+                {
+                    "day": 3,
+                    "activity": "Water sports day."
+                },
+                {
+                    "day": 4,
+                    "activity": "Visit Himchari National Park."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Beach activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP022",
+            "name": "Sylhet Nature and Adventure Tour",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/sylhet_1.jpg?raw=true",
+            "overview": "Experience the natural beauty and adventure in Sylhet, perfect for outdoor lovers and families.",
+            "description": "Explore waterfalls, tea gardens, and take part in exciting outdoor activities in Sylhet.",
+            "duration": "6 days",
+            "price": 849.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Sylhet",
+                "highlights": [
+                    "Visit Jaflong and Dawki",
+                    "Explore Ratargul Swamp Forest",
+                    "Tea garden trekking",
+                    "Biking and hiking adventures"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Visit Jaflong and Dawki."
+                },
+                {
+                    "day": 3,
+                    "activity": "Tea garden trekking."
+                },
+                {
+                    "day": 4,
+                    "activity": "Explore Ratargul Swamp Forest."
+                },
+                {
+                    "day": 5,
+                    "activity": "Biking and hiking adventures."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Outdoor activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP023",
+            "name": "Maldives Honeymoon Bliss",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_5.jpg?raw=true",
+            "overview": "A romantic escape to the Maldives, perfect for newlyweds and couples.",
+            "description": "Indulge in luxury stays, private dinners, and serene spa experiences in a tropical paradise.",
+            "duration": "7 days",
+            "price": 2999.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 2
+            },
+            "destination": {
+                "country": "Maldives",
+                "city": "Malé",
+                "highlights": [
+                    "Stay in an overwater villa",
+                    "Private candlelight dinner on the beach",
+                    "Couples spa treatment",
+                    "Sunset dolphin cruise"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and transfer to resort."
+                },
+                {
+                    "day": 2,
+                    "activity": "Relax in the overwater villa."
+                },
+                {
+                    "day": 3,
+                    "activity": "Couples spa treatment."
+                },
+                {
+                    "day": 4,
+                    "activity": "Private candlelight dinner on the beach."
+                },
+                {
+                    "day": 5,
+                    "activity": "Sunset dolphin cruise."
+                },
+                {
+                    "day": 6,
+                    "activity": "Free day to explore or relax."
+                },
+                {
+                    "day": 7,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Luxury accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Private dinner"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP024",
+            "name": "Maldives Adventure Escape",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_island.jpg?raw=true",
+            "overview": "An adventurous getaway to the Maldives for thrill-seekers and nature lovers.",
+            "description": "Engage in water sports, snorkeling, and exploring the stunning coral reefs.",
+            "duration": "5 days",
+            "price": 1599.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "Maldives",
+                "city": "Malé",
+                "highlights": [
+                    "Snorkeling and scuba diving",
+                    "Jet skiing and parasailing",
+                    "Island hopping tour",
+                    "Visit to local islands"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and transfer to resort."
+                },
+                {
+                    "day": 2,
+                    "activity": "Snorkeling and scuba diving."
+                },
+                {
+                    "day": 3,
+                    "activity": "Jet skiing and parasailing."
+                },
+                {
+                    "day": 4,
+                    "activity": "Island hopping tour."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Water sports activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP025",
+            "name": "Maldives Family Fun",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_4.jpg?raw=true",
+            "overview": "A family-friendly adventure in the Maldives, filled with fun activities for all ages.",
+            "description": "Enjoy beach activities, water sports, and family excursions in a breathtaking setting.",
+            "duration": "6 days",
+            "price": 2499.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 4,
+                "max": 6
+            },
+            "destination": {
+                "country": "Maldives",
+                "city": "Malé",
+                "highlights": [
+                    "Beach games and activities",
+                    "Family snorkeling trip",
+                    "Visit local islands",
+                    "Cooking class with locals"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and transfer to resort."
+                },
+                {
+                    "day": 2,
+                    "activity": "Beach games and activities."
+                },
+                {
+                    "day": 3,
+                    "activity": "Family snorkeling trip."
+                },
+                {
+                    "day": 4,
+                    "activity": "Visit local islands."
+                },
+                {
+                    "day": 5,
+                    "activity": "Cooking class with locals."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Family activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP026",
+            "name": "Maldives Relaxation Retreat",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_3.jpg?raw=true",
+            "overview": "A serene getaway in the Maldives for those seeking peace and tranquility.",
+            "description": "Unwind with spa treatments, yoga sessions, and stunning beach views.",
+            "duration": "7 days",
+            "price": 2199.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 4
+            },
+            "destination": {
+                "country": "Maldives",
+                "city": "Malé",
+                "highlights": [
+                    "Daily yoga sessions",
+                    "Relaxing spa treatments",
+                    "Beachfront meditation",
+                    "Sunset yoga classes"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and transfer to resort."
+                },
+                {
+                    "day": "2-6",
+                    "activity": "Daily yoga and spa sessions."
+                },
+                {
+                    "day": 7,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Yoga and spa treatments"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP027",
+            "name": "Maldives Eco-Adventure",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_2.jpg?raw=true",
+            "overview": "An eco-friendly tour of the Maldives, perfect for nature lovers and environmental enthusiasts.",
+            "description": "Explore marine life, participate in conservation activities, and enjoy sustainable tourism.",
+            "duration": "6 days",
+            "price": 1899.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 4
+            },
+            "destination": {
+                "country": "Maldives",
+                "city": "Malé",
+                "highlights": [
+                    "Coral reef restoration project",
+                    "Guided snorkeling with marine biologists",
+                    "Visit protected marine parks",
+                    "Sustainable fishing experience"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and transfer to eco-resort."
+                },
+                {
+                    "day": 2,
+                    "activity": "Guided snorkeling with marine biologists."
+                },
+                {
+                    "day": 3,
+                    "activity": "Participate in coral reef restoration."
+                },
+                {
+                    "day": 4,
+                    "activity": "Visit protected marine parks."
+                },
+                {
+                    "day": 5,
+                    "activity": "Sustainable fishing experience."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Eco-friendly accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Eco-tour activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid passport"
+            ]
+        },
+        {
+            "id": "TP028",
+            "name": "Cox's Bazar Family Beach Retreat",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_sunset.jpg?raw=true",
+            "overview": "A fun-filled family vacation at the longest natural sea beach in the world.",
+            "description": "Enjoy beach activities, local excursions, and quality family time in Cox's Bazar.",
+            "duration": "6 days",
+            "price": 899.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 4,
+                "max": 8
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Cox's Bazar",
+                "highlights": [
+                    "Beach sports and games",
+                    "Visit Himchari National Park",
+                    "Fishing trip",
+                    "Local market exploration"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and beach time."
+                },
+                {
+                    "day": 2,
+                    "activity": "Beach sports and games."
+                },
+                {
+                    "day": 3,
+                    "activity": "Fishing trip and seafood cooking class."
+                },
+                {
+                    "day": 4,
+                    "activity": "Visit Himchari National Park."
+                },
+                {
+                    "day": 5,
+                    "activity": "Explore local markets."
+                },
+                {
+                    "day": 6,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Beach activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP029",
+            "name": "Cox's Bazar Adventure Tour",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar.jpg?raw=true",
+            "overview": "An adventurous exploration of Cox's Bazar and surrounding natural wonders.",
+            "description": "Experience trekking, beach activities, and cultural interactions in this vibrant area.",
+            "duration": "5 days",
+            "price": 749.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Cox's Bazar",
+                "highlights": [
+                    "Trekking in the hills",
+                    "Visit Moheshkhali Island",
+                    "Snorkeling at Saint Martin's Island",
+                    "Local cultural experience"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and relax at the beach."
+                },
+                {
+                    "day": 2,
+                    "activity": "Trek in the nearby hills."
+                },
+                {
+                    "day": 3,
+                    "activity": "Day trip to Moheshkhali Island."
+                },
+                {
+                    "day": 4,
+                    "activity": "Snorkeling adventure at Saint Martin's Island."
+                },
+                {
+                    "day": 5,
+                    "activity": "Check out and transfer to the airport."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Adventure activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP030",
+            "name": "Cox's Bazar Eco-Tour",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_inani.png?raw=true",
+            "overview": "A sustainable travel experience focusing on nature and local culture in Cox's Bazar.",
+            "description": "Engage in eco-friendly activities and learn about local conservation efforts.",
+            "duration": "5 days",
+            "price": 849.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Cox's Bazar",
+                "highlights": [
+                    "Participate in beach cleanup activities",
+                    "Visit local fisheries",
+                    "Wildlife spotting in Himchari National Park",
+                    "Sustainable cooking class"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and beach orientation."
+                },
+                {
+                    "day": 2,
+                    "activity": "Beach cleanup activity."
+                },
+                {
+                    "day": 3,
+                    "activity": "Visit local fisheries and learn about sustainability."
+                },
+                {
+                    "day": 4,
+                    "activity": "Wildlife spotting in Himchari National Park."
+                },
+                {
+                    "day": 5,
+                    "activity": "Sustainable cooking class and check out."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Eco-friendly activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        },
+        {
+            "id": "TP031",
+            "name": "Cox's Bazar Cultural Experience",
+            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_himchori.jpg?raw=true",
+            "overview": "Immerse yourself in the rich culture and traditions of Cox's Bazar.",
+            "description": "Discover local crafts, music, and cuisine through guided cultural activities.",
+            "duration": "4 days",
+            "price": 599.99,
+            "currency": "USD",
+            "personLimitations": {
+                "min": 2,
+                "max": 6
+            },
+            "destination": {
+                "country": "Bangladesh",
+                "city": "Cox's Bazar",
+                "highlights": [
+                    "Visit local artisan workshops",
+                    "Participate in traditional cooking classes",
+                    "Cultural performances",
+                    "Explore the local market"
+                ]
+            },
+            "itinerary": [
+                {
+                    "day": 1,
+                    "activity": "Arrival and local sightseeing."
+                },
+                {
+                    "day": 2,
+                    "activity": "Visit local artisan workshops."
+                },
+                {
+                    "day": 3,
+                    "activity": "Cooking class with local chefs."
+                },
+                {
+                    "day": 4,
+                    "activity": "Cultural performance and check out."
+                }
+            ],
+            "inclusions": [
+                "Accommodation",
+                "Airport transfers",
+                "Daily breakfast",
+                "Cultural activities"
+            ],
+            "exclusions": [
+                "Travel insurance",
+                "Personal expenses"
+            ],
+            "requirements": [
+                "Valid ID proof"
+            ]
+        }
+    ]
+}
