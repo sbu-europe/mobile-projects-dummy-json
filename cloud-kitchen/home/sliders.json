@@ -1,0 +1,28 @@
+{
+    "status": "ok",
+    "status_message": "Query was successful",
+    "data": {
+        "sliders": [
+            {
+                "title": "BBQ",
+                "image": "https://drive.google.com/uc?export=view&id=1CcMNodJsFy63zyIlfKWbqpLa8qwBQ6i1"
+            },
+            {
+                "title": "Burger",
+                "image": "https://drive.google.com/uc?export=view&id=10tWMEfpex9aKOrOQ-hcC5SHcCo--ZXvG"
+            },
+            {
+                "title": "Pizza",
+                "image": "https://drive.google.com/uc?export=view&id=1TUaCL7lGgg-mYpMPycypotPuc9mT9Aai"
+            },
+            {
+                "title": "Chicken",
+                "image": "https://drive.google.com/uc?export=view&id=1NFsaHXkeCDdtv2a7dNU2HbCro0i6wUHX"
+            },
+            {
+                "title": "Foods",
+                "image": "https://drive.google.com/uc?export=view&id=1e4SLu30iDn1UmV_EzQcXkT-FQIUD1sq0"
+            }
+        ]
+    }
+}

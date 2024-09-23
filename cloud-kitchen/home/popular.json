@@ -1,0 +1,56 @@
+{
+    "status": "ok",
+    "status_message": "Query was successful",
+    "data": {
+        "popularItems": [
+            {
+                "id": "f0031",
+                "name": "Mutton Kacchi",
+                "calories": "250 kcal",
+                "weight": "200g",
+                "price": 12.99,
+                "image": "https://api.ebangladesh.com/upload/shop/items/81e9f780-e23f-11ec-9146-1195449e8170/81e9f780-e23f-11ec-9146-1195449e8170.png"
+            },
+            {
+                "id": "f0032",
+                "name": "Beef Kalabhuna",
+                "calories": "350 kcal",
+                "weight": "300g",
+                "price": 14.99,
+                "image": "https://i.ytimg.com/vi/4TgSHF608dU/maxresdefault.jpg"
+            },
+            {
+                "id": "f0033",
+                "name": "Mexican Pizza",
+                "calories": "270 kcal",
+                "weight": "360g",
+                "price": 9.99,
+                "image": "https://www.chilipeppermadness.com/wp-content/uploads/2024/02/Mexican-Pizza-Recipe-SQ.jpg"
+            },
+            {
+                "id": "f0034",
+                "name": "Beff Stake",
+                "calories": "450 kcal",
+                "weight": "400g",
+                "price": 15.99,
+                "image": "https://kitchenconfidante.com/wp-content/uploads/2022/05/Angus-Beef-Steak-Recipe-with-Garlic-Herb-Compound-Butter-kitchenconfidante.com-2745-FEATURED-IMAGE.jpg"
+            },
+            {
+                "id": "f0035",
+                "name": "Korean Pasta",
+                "calories": "200 kcal",
+                "weight": "100g",
+                "price": 7.99,
+                "image": "https://www.halfbakedharvest.com/wp-content/uploads/2022/08/20-Minute-Korean-Beef-Sesame-Noodles-1.jpg"
+            },
+            {
+                "id": "f0036",
+                "name": "Chicken Ricebowl Masala",
+                "calories": "150 kcal",
+                "weight": "200g",
+                "price": 8.99,
+                "image": "https://images.mrcook.app/recipe-image/0190d480-dfc9-7ae3-b7fa-1b543b7db0d4"
+            }
+        ]
+    }
+}

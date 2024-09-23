@@ -1,0 +1,187 @@
+{
+    "status": "ok",
+    "status_message": "Query was successful",
+    "data": {
+        "categories": [
+            {
+                "title": "Pizza",
+                "items": [
+                    {
+                        "id": "f0001",
+                        "name": "Pizza Margherita",
+                        "calories": "250 kcal",
+                        "weight": "200g",
+                        "price": 12.99,
+                        "image": "https://www.sainsburysmagazine.co.uk/uploads/media/1800x1800/09/7699-Margherita-pizza.jpg?v=1-0"
+                    },
+                    {
+                        "id": "f0002",
+                        "name": "Mexxican Pizza",
+                        "calories": "250 kcal",
+                        "weight": "200g",
+                        "price": 12.99,
+                        "image": "https://www.chilipeppermadness.com/wp-content/uploads/2024/02/Mexican-Pizza-Recipe-SQ.jpg"
+                    },
+                    {
+                        "id": "f0003",
+                        "name": "Italian Pizza",
+                        "calories": "250 kcal",
+                        "weight": "200g",
+                        "price": 12.99,
+                        "image": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
+                    },
+                    {
+                        "id": "f0004",
+                        "name": "Chese Pizza",
+                        "calories": "250 kcal",
+                        "weight": "200g",
+                        "price": 12.99,
+                        "image": "https://pizzapro.in/cdn/shop/articles/four-cheese-pizza-pizza-pro.jpg?v=1645080271"
+                    },
+                    {
+                        "id": "f0005",
+                        "name": "Peperoni Pizza",
+                        "calories": "250 kcal",
+                        "weight": "200g",
+                        "price": 12.99,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgW2jmjx0mjT2bJkDyp8JwSGdAhyuyeWKlA&s"
+                    },
+                    {
+                        "id": "f0006",
+                        "name": "Spicy Pizza",
+                        "calories": "250 kcal",
+                        "weight": "200g",
+                        "price": 12.99,
+                        "image": "https://www.shutterstock.com/shutterstock/photos/2317231165/display_1500/stock-photo-pizza-with-salami-sausage-mozzarella-cheese-mushrooms-black-olives-spicy-tomato-sauce-and-2317231165.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "Burger",
+                "items": [
+                    {
+                        "id": "f0007",
+                        "name": "Cheeseburger",
+                        "calories": "300 kcal",
+                        "weight": "150g",
+                        "price": 8.99,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6RjLeVG3RUwZUoj7EnvewJhwG_AthW3ygQ&s"
+                    },
+                    {
+                        "id": "f0008",
+                        "name": "Beef Burger",
+                        "calories": "450 kcal",
+                        "weight": "180g",
+                        "price": 10.99,
+                        "image": "https://groundbeefrecipes.com/wp-content/uploads/avocado-burgers-6.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "BBQ",
+                "items": [
+                    {
+                        "id": "f0009",
+                        "name": "BBQ Chicken Wings",
+                        "calories": "400 kcal",
+                        "weight": "250g",
+                        "price": 11.99,
+                        "image": "https://www.loveandotherspices.com/wp-content/uploads/2023/06/air-fryer-bbq-chicken-wings-featured.jpg"
+                    },
+                    {
+                        "id": "f0010",
+                        "name": "BBQ Ribs",
+                        "calories": "600 kcal",
+                        "weight": "300g",
+                        "price": 15.9,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZs0N1aA2WlzFINAZa2NRme1sk36AKSLum1w&s"
+                    }
+                ]
+            },
+            {
+                "title": "Pasta",
+                "items": [
+                    {
+                        "id": "f0011",
+                        "name": "Spaghetti Carbonara",
+                        "calories": "350 kcal",
+                        "weight": "200g",
+                        "price": 13.99,
+                        "image": "https://www.sipandfeast.com/wp-content/uploads/2022/09/spaghetti-carbonara-recipe-snippet.jpg"
+                    },
+                    {
+                        "id": "f0012",
+                        "name": "Fettuccine Alfredo",
+                        "calories": "400 kcal",
+                        "weight": "220g",
+                        "price": 14.99,
+                        "image": "https://images.themodernproper.com/billowy-turkey/production/posts/ChickenFettuccineAlfredo_11.jpg?w=960&h=960&q=82&fm=jpg&fit=crop&dm=1675190172&s=89dafc9de3618b7673be90fa09af4044"
+                    }
+                ]
+            },
+            {
+                "title": "Desserts",
+                "items": [
+                    {
+                        "id": "f0013",
+                        "name": "Chocolate Cake",
+                        "calories": "500 kcal",
+                        "weight": "150g",
+                        "price": 7.99,
+                        "image": "https://bakewithshivesh.com/wp-content/uploads/2022/02/IMG_5391-scaled.jpg"
+                    },
+                    {
+                        "id": "f0014",
+                        "name": "Apple Pie",
+                        "calories": "400 kcal",
+                        "weight": "200g",
+                        "price": 6.99,
+                        "image": "https://www.rainbownourishments.com/wp-content/uploads/2021/08/best-vegan-apple-pie-1.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "Drinks",
+                "items": [
+                    {
+                        "id": "f0015",
+                        "name": "Lemonade",
+                        "calories": "150 kcal",
+                        "weight": "250ml",
+                        "price": 3.99,
+                        "image": "https://www.jocooks.com/wp-content/uploads/2023/05/lemonade-1-28.jpg"
+                    },
+                    {
+                        "id": "f0016",
+                        "name": "Iced Tea",
+                        "calories": "120 kcal",
+                        "weight": "300ml",
+                        "price": 2.99,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbi6ese6_Hox4qoOCaPvapTCXcuwEOhInqDA&s"
+                    }
+                ]
+            },
+            {
+                "title": "Others",
+                "items": [
+                    {
+                        "id": "f0017",
+                        "name": "French Fries",
+                        "calories": "300 kcal",
+                        "weight": "100g",
+                        "price": 4.99,
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-75GWA0-SENyOmsCy8RCoy5mQq7YenRLSkw&s"
+                    },
+                    {
+                        "id": "f0018",
+                        "name": "Onion Rings",
+                        "calories": "250 kcal",
+                        "weight": "120g",
+                        "price": 5.99,
+                        "image": "https://houseofnasheats.com/wp-content/uploads/2023/03/Homemade-Onion-Rings-Square-1.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

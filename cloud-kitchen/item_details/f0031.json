@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "status_message": "Item details fetched successfully",
+    "data": {
+        "item_details": {
+            "id": "f0031",
+            "title": "Mutton Kacchi",
+            "full_description": "A healthy and delicious grilled chicken salad with fresh vegetables and a light dressing.",
+            "image": "https://www.sainsburysmagazine.co.uk/uploads/media/1800x1800/09/7699-Margherita-pizza.jpg?v=1-0",
+            "rating": 4.5,
+            "price": 12.99,
+            "calories": 250.0,
+            "weight": 300.0,
+            "fat": 10.0,
+            "protein": 20.0,
+            "terms_and_conditions": "Store in a cool, dry place. Best consumed within 2 days of purchase.",
+            "ingredients": [
+                "Mutton",
+                "Rice",
+                "Potato",
+                "Lettuce",
+                "Tomato",
+                "Cucumber",
+                "Olive Oil",
+                "Lemon Juice",
+                "Salt",
+                "Pepper"
+            ],
+            "reviews": [
+                {
+                    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/28003-1710080339.jpg?lm=1",
+                    "name": "Messi",
+                    "details": "Great salad! Fresh and tasty.",
+                    "ratings": 5.0
+                },
+                {
+                    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/8198-1694609670.jpg?lm=1",
+                    "name": "Ronaldo",
+                    "details": "Loved the grilled chicken, but the dressing was a bit too tangy for my taste.",
+                    "ratings": 4.5
+                },
+                {
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfC5TPxkYkOZGUqB4g7UTuasWX1hs38X5uw&s",
+                    "name": "Neymar",
+                    "details": "Awesome taste. Samba La La",
+                    "ratings": 4.0
+                }
+            ]
+        }
+    }
+}

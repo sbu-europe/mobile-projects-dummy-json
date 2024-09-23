@@ -1,0 +1,36 @@
+{
+    "status": "ok",
+    "status_message": "Query was successful",
+    "data": {
+        "categories": [
+            {
+                "title": "BBQ",
+                "image": "https://myfoodbook.com.au/sites/default/files/styles/1x1/public/recipe_photo/Chicken_Pineapple_Summer_Skewers_web.jpg"
+            },
+            {
+                "title": "Biriyani",
+                "image": "https://c.ndtvimg.com/2022-04/fq5cs53_biryani-doubletree-by-hilton_625x300_12_April_22.jpg"
+            },
+            {
+                "title": "Meals",
+                "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/roast_chicken_for_one_41998_16x9.jpg"
+            },
+            {
+                "title": "Burger",
+                "image": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg"
+            },
+            {
+                "title": "Pizza",
+                "image": "https://www.southernliving.com/thmb/3x3cJaiOvQ8-3YxtMQX0vvh1hQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2652401_QFSSL_SupremePizza_00072-d910a935ba7d448e8c7545a963ed7101.jpg"
+            },
+            {
+                "title": "Chicken",
+                "image": "https://www.foodandwine.com/thmb/t9YqzGbmH-huAbV6xitCQs0-G4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/FAW-recipes-herb-and-lemon-roasted-chicken-hero-c4ba0aec56884683be482c47b1e1df11.jpg"
+            },
+            {
+                "title": "Fish",
+                "image": "https://www.ruraltreasures.com/cdn/shop/articles/kioTO3659sNeOVXgySZ9dfDaBPbkjpc3TUxohjFe.jpg?v=1644407583"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "status_message": "Item details fetched successfully",
+    "data": {
+        "id": "p0001",
+        "name": "Ankara Messi",
+        "image_url": "https://i.pinimg.com/564x/8f/69/81/8f698181109b78a90651f0c513530265.jpg",
+        "phone": "+8383239023",
+        "email": "ankara30messi@lm.com",
+        "address": [
+            {
+                "label": "Home",
+                "location": "Rosario, Buens Aires, Argentina"
+            },
+            {
+                "label": "Club",
+                "location": "Nou Camp, Barcelona, Spain"
+            },
+            {
+                "label": "Office",
+                "location": "Hard Rock Stadium, Miami, USA"
+            }
+        ],
+        "order_history": [
+            {
+                "id": "f0031",
+                "title": "Mutton Kacchi",
+                "image_url": "https://api.ebangladesh.com/upload/shop/items/81e9f780-e23f-11ec-9146-1195449e8170/81e9f780-e23f-11ec-9146-1195449e8170.png",
+                "price": 12.99,
+                "quantity": 2,
+                "total_price": 25.98
+            },
+            {
+                "id": "f0032",
+                "title": "Beef Kalabhuna",
+                "image_url": "https://i.ytimg.com/vi/4TgSHF608dU/maxresdefault.jpg",
+                "price": 14.99,
+                "quantity": 1,
+                "total_price": 14.99
+            }
+        ]
+    }
+}
