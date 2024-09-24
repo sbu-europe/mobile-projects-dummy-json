@@ -1,0 +1,25 @@
+{
+  "promo_code": [
+    {
+      "id": 1,
+      "name": "Personal Offer",
+      "promo_code": "mypromocode2024",
+      "Days_remaining": 6,
+      "percentage": 10
+    },
+    {
+      "id": 2,
+      "name": "Summer Sale",
+      "promo_code": "summmer2024",
+      "Days_remaining": 23,
+      "percentage": 15
+    },
+    {
+      "id": 3,
+      "name": "Personal offer",
+      "promo_code": "mypromocode2024",
+      "Days_remaining": 6,
+      "percentage": 22
+    }
+  ]
+}
