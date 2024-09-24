@@ -3,7 +3,7 @@
         {
             "id": "TP001",
             "name": "Exotic Beach Getaway",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_1.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/maldives_1.jpg?raw=true",
             "overview": "Experience a blissful escape to the stunning beaches of the Maldives. Perfect for couples, families, or friends looking to unwind and explore beautiful underwater worlds.",
             "description": "Enjoy a week of sun, sand, and relaxation at one of the most beautiful beaches in the world, with luxurious accommodations and exciting activities.",
             "duration": "7 days",
@@ -77,7 +77,7 @@
             "overview": "Explore the vibrant city of Dubai, known for its modern architecture and rich culture. Ideal for families and adventure seekers.",
             "description": "Experience the blend of tradition and modernity in Dubai with thrilling attractions and cultural excursions.",
             "duration": "5 days",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/dubai_1.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/dubai_1.jpg?raw=true",
             "price": 1099.99,
             "currency": "USD",
             "personLimitations": {
@@ -134,7 +134,7 @@
         {
             "id": "TP003",
             "name": "Kashmir Honeymoon Retreat",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/kashmir_1.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/kashmir_1.jpg?raw=true",
             "overview": "Discover the romantic landscapes of Kashmir, perfect for newlyweds seeking serenity and beauty.",
             "description": "Experience the charm of Kashmir with breathtaking views, tranquil gardens, and cozy houseboats.",
             "duration": "6 days",
@@ -196,7 +196,7 @@
         {
             "id": "TP004",
             "name": "Family Fun in Manali",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/manali_3.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/manali_3.jpg?raw=true",
             "overview": "A family-friendly adventure in the stunning mountains of Manali, perfect for all ages.",
             "description": "Enjoy thrilling outdoor activities, beautiful landscapes, and quality time with family in the serene hills of Manali.",
             "duration": "5 days",
@@ -254,7 +254,7 @@
         {
             "id": "TP005",
             "name": "Phi Phi Island Paradise",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/phiphi_1.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/phiphi_1.jpg?raw=true",
             "overview": "Escape to the stunning Phi Phi Islands, perfect for beach lovers and adventure enthusiasts.",
             "description": "Experience crystal-clear waters, vibrant marine life, and breathtaking scenery on this tropical getaway.",
             "duration": "6 days",
@@ -316,7 +316,7 @@
         {
             "id": "TP006",
             "name": "Gangtok Family Adventure",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/gangtok_3.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/gangtok_3.jpg?raw=true",
             "overview": "Discover the beauty of Gangtok, perfect for families seeking nature and culture.",
             "description": "Enjoy the scenic views, vibrant culture, and adventure activities in the heart of Sikkim.",
             "duration": "5 days",
@@ -374,7 +374,7 @@
         {
             "id": "TP007",
             "name": "Cox's Bazar Beach Retreat",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_couple.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/cox'sbazar_couple.jpg?raw=true",
             "overview": "Unwind at Cox's Bazar, the longest natural sea beach in the world, perfect for families and beach lovers.",
             "description": "Relax on sandy beaches, enjoy water sports, and explore the local culture in this picturesque destination.",
             "duration": "4 days",
@@ -428,7 +428,7 @@
         {
             "id": "TP008",
             "name": "Sylhet Cultural Journey",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/sylhet_3.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/sylhet_3.jpg?raw=true",
             "overview": "Experience the lush landscapes and tea gardens of Sylhet, ideal for cultural enthusiasts and nature lovers.",
             "description": "Discover the rich heritage and stunning scenery of Sylhet with guided tours and local experiences.",
             "duration": "5 days",
@@ -486,7 +486,7 @@
         {
             "id": "TP009",
             "name": "Dubai Luxury Escape",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/dubai_2.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/dubai_2.jpg?raw=true",
             "overview": "Indulge in luxury with a 5-star experience in Dubai, ideal for couples and luxury travelers.",
             "description": "Stay in premium accommodations, enjoy fine dining, and experience the best of Dubai's opulence.",
             "duration": "5 days",
@@ -546,7 +546,7 @@
         {
             "id": "TP010",
             "name": "Kashmir Adventure Trek",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/kashmir_2.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/kashmir_2.jpg?raw=true",
             "overview": "An adventurous trekking experience in Kashmir, perfect for outdoor enthusiasts and nature lovers.",
             "description": "Explore the breathtaking landscapes of Kashmir with guided treks through its stunning valleys.",
             "duration": "8 days",
@@ -617,7 +617,7 @@
         {
             "id": "TP011",
             "name": "Manali Adventure Sports",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/manali_2.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/manali_2.jpg?raw=true",
             "overview": "Thrilling adventure sports in Manali for adventure seekers and families.",
             "description": "Experience a mix of adventure and relaxation with activities like paragliding, rafting, and more.",
             "duration": "6 days",
@@ -679,7 +679,7 @@
         {
             "id": "TP012",
             "name": "Phi Phi Island Luxury Retreat",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/phiphi_2.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/phiphi_2.jpg?raw=true",
             "overview": "A luxurious escape to Phi Phi Islands, ideal for couples and honeymooners.",
             "description": "Indulge in luxury accommodations and private experiences amidst stunning landscapes.",
             "duration": "5 days",
@@ -737,7 +737,7 @@
         {
             "id": "TP013",
             "name": "Gangtok Spiritual Retreat",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/gangtok_2.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/gangtok_2.jpg?raw=true",
             "overview": "A spiritual journey through Gangtok, perfect for those seeking peace and tranquility.",
             "description": "Explore monasteries, beautiful landscapes, and experience the serenity of the Himalayas.",
             "duration": "5 days",
@@ -795,7 +795,7 @@
         {
             "id": "TP014",
             "name": "Cox's Bazar Family Beach Fun",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'cox'sbazar_seabeach.jpeg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/cox'cox'sbazar_seabeach.jpeg?raw=true",
             "overview": "A fun-filled family beach vacation at Cox's Bazar, perfect for all ages.",
             "description": "Enjoy beach activities, local culture, and relaxation in one of the world's longest beaches.",
             "duration": "5 days",
@@ -853,7 +853,7 @@
         {
             "id": "TP015",
             "name": "Sylhet Tea Garden Experience",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/sylhet_2.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/sylhet_2.jpg?raw=true",
             "overview": "A cultural and scenic journey through Sylhet's famous tea gardens, ideal for nature lovers.",
             "description": "Explore lush tea estates, visit waterfalls, and enjoy the local cuisine.",
             "duration": "4 days",
@@ -907,7 +907,7 @@
         {
             "id": "TP016",
             "name": "Dubai Thrills and Chill",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/dubai_3.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/dubai_3.jpg?raw=true",
             "overview": "A perfect blend of adventure and relaxation in Dubai, ideal for thrill-seekers and leisure travelers.",
             "description": "Experience the adrenaline rush of desert adventures alongside luxurious downtime at the beach.",
             "duration": "6 days",
@@ -972,7 +972,7 @@
         {
             "id": "TP017",
             "name": "Kashmir Family Adventure",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/kashmir_3.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/kashmir_3.jpg?raw=true",
             "overview": "A fun-filled family adventure in the enchanting landscapes of Kashmir.",
             "description": "Engage in outdoor activities and explore the breathtaking beauty of the Valley together.",
             "duration": "7 days",
@@ -1039,7 +1039,7 @@
         {
             "id": "TP018",
             "name": "Manali Snow Adventure",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/manali_1.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/manali_1.jpg?raw=true",
             "overview": "A winter wonderland experience in Manali for snow lovers and adventure enthusiasts.",
             "description": "Enjoy skiing, snowboarding, and other winter activities in the beautiful Himalayan landscape.",
             "duration": "6 days",
@@ -1103,7 +1103,7 @@
         {
             "id": "TP019",
             "name": "Phi Phi Island Romantic Getaway",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/phiphi_3.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/phiphi_3.jpg?raw=true",
             "overview": "A dreamy escape to Phi Phi Islands for couples and honeymooners.",
             "description": "Enjoy intimate experiences, stunning views, and relaxation in a beautiful tropical setting.",
             "duration": "5 days",
@@ -1162,7 +1162,7 @@
         {
             "id": "TP020",
             "name": "Gangtok Nature and Culture Tour",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/gangtok_1.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/gangtok_1.jpg?raw=true",
             "overview": "A delightful mix of nature and culture in Gangtok, perfect for families and nature lovers.",
             "description": "Explore the stunning landscapes and rich culture of Sikkim through guided tours and local experiences.",
             "duration": "6 days",
@@ -1225,7 +1225,7 @@
         {
             "id": "TP021",
             "name": "Cox's Bazar Beach Adventure",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_resort.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/cox'sbazar_resort.jpg?raw=true",
             "overview": "An exciting beach adventure at Cox's Bazar, perfect for families and water sports enthusiasts.",
             "description": "Engage in thrilling beach activities and explore the local culture in one of the longest beaches in the world.",
             "duration": "5 days",
@@ -1284,7 +1284,7 @@
         {
             "id": "TP022",
             "name": "Sylhet Nature and Adventure Tour",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/sylhet_1.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/sylhet_1.jpg?raw=true",
             "overview": "Experience the natural beauty and adventure in Sylhet, perfect for outdoor lovers and families.",
             "description": "Explore waterfalls, tea gardens, and take part in exciting outdoor activities in Sylhet.",
             "duration": "6 days",
@@ -1347,7 +1347,7 @@
         {
             "id": "TP023",
             "name": "Maldives Honeymoon Bliss",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_5.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/maldives_5.jpg?raw=true",
             "overview": "A romantic escape to the Maldives, perfect for newlyweds and couples.",
             "description": "Indulge in luxury stays, private dinners, and serene spa experiences in a tropical paradise.",
             "duration": "7 days",
@@ -1414,7 +1414,7 @@
         {
             "id": "TP024",
             "name": "Maldives Adventure Escape",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_island.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/maldives_island.jpg?raw=true",
             "overview": "An adventurous getaway to the Maldives for thrill-seekers and nature lovers.",
             "description": "Engage in water sports, snorkeling, and exploring the stunning coral reefs.",
             "duration": "5 days",
@@ -1473,7 +1473,7 @@
         {
             "id": "TP025",
             "name": "Maldives Family Fun",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_4.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/maldives_4.jpg?raw=true",
             "overview": "A family-friendly adventure in the Maldives, filled with fun activities for all ages.",
             "description": "Enjoy beach activities, water sports, and family excursions in a breathtaking setting.",
             "duration": "6 days",
@@ -1536,7 +1536,7 @@
         {
             "id": "TP026",
             "name": "Maldives Relaxation Retreat",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_3.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/maldives_3.jpg?raw=true",
             "overview": "A serene getaway in the Maldives for those seeking peace and tranquility.",
             "description": "Unwind with spa treatments, yoga sessions, and stunning beach views.",
             "duration": "7 days",
@@ -1587,7 +1587,7 @@
         {
             "id": "TP027",
             "name": "Maldives Eco-Adventure",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/maldives_2.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/maldives_2.jpg?raw=true",
             "overview": "An eco-friendly tour of the Maldives, perfect for nature lovers and environmental enthusiasts.",
             "description": "Explore marine life, participate in conservation activities, and enjoy sustainable tourism.",
             "duration": "6 days",
@@ -1650,7 +1650,7 @@
         {
             "id": "TP028",
             "name": "Cox's Bazar Family Beach Retreat",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_sunset.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/cox'sbazar_sunset.jpg?raw=true",
             "overview": "A fun-filled family vacation at the longest natural sea beach in the world.",
             "description": "Enjoy beach activities, local excursions, and quality family time in Cox's Bazar.",
             "duration": "6 days",
@@ -1713,7 +1713,7 @@
         {
             "id": "TP029",
             "name": "Cox's Bazar Adventure Tour",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/cox'sbazar.jpg?raw=true",
             "overview": "An adventurous exploration of Cox's Bazar and surrounding natural wonders.",
             "description": "Experience trekking, beach activities, and cultural interactions in this vibrant area.",
             "duration": "5 days",
@@ -1772,7 +1772,7 @@
         {
             "id": "TP030",
             "name": "Cox's Bazar Eco-Tour",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_inani.png?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/cox'sbazar_inani.png?raw=true",
             "overview": "A sustainable travel experience focusing on nature and local culture in Cox's Bazar.",
             "description": "Engage in eco-friendly activities and learn about local conservation efforts.",
             "duration": "5 days",
@@ -1831,7 +1831,7 @@
         {
             "id": "TP031",
             "name": "Cox's Bazar Cultural Experience",
-            "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/Destinations/cox'sbazar_himchori.jpg?raw=true",
+            "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/Destinations/cox'sbazar_himchori.jpg?raw=true",
             "overview": "Immerse yourself in the rich culture and traditions of Cox's Bazar.",
             "description": "Discover local crafts, music, and cuisine through guided cultural activities.",
             "duration": "4 days",
