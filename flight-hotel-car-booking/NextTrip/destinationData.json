@@ -3,35 +3,35 @@
         "destination": "Dubai City",
         "date": "16 Aug,2024",
         "type": "Business Class",
-        "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/dubai.jpg?raw=true",
+        "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/dubai.jpg?raw=true",
         "amountFrom": "$3100.00"
     },
     {
         "destination": "Phi Phi Island",
         "date": "16 Aug,2024",
         "type": "Business/First Class",
-        "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/phiphi.jpg?raw=true",
+        "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/phiphi.jpg?raw=true",
         "amountFrom": "$1100.00"
     },
     {
         "destination": "Kashmir",
         "date": "16 Sep,2024",
         "type": "Business/First Class",
-        "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/kashmir.jpg?raw=true",
+        "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/kashmir.jpg?raw=true",
         "amountFrom": "$1400.00"
     },
     {
         "destination": "Manali City",
         "date": "18 Aug,2024",
         "type": "Business/First Class",
-        "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/manali.jpg?raw=true",
+        "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/manali.jpg?raw=true",
         "amountFrom": "$2200.00"
     },
     {
         "destination": "Gangtok",
         "date": "16 Aug,2024",
         "type": "Business Class",
-        "image": "https://github.com/faisalbs1527/dummyData/blob/main/NextTrip/Pictures/gantok.jpg?raw=true",
+        "image": "https://github.com/sbu-europe/mobile-projects-dummy-json/blob/main/flight-hotel-car-booking/NextTrip/Pictures/gantok.jpg?raw=true",
         "amountFrom": "$1540.00"
     }
 ]
