@@ -1,0 +1,322 @@
+{
+  "categories": [
+    {
+      "categoryId": "cat001",
+      "categoryName": "Electronics",
+      "subCategories": [
+        {
+          "subCategoryId": "sub001",
+          "subCategoryName": "Mobile Phones",
+          "products": [
+            {
+              "productId": "prod001",
+              "productName": "Honor 200",
+              "brandName": "Honor",
+              "price": 649.99,
+              "rating": 4.2,
+              "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/05/Honor-200-Pink.webp"
+            },
+            {
+              "productId": "prod002",
+              "productName": "Honor Magic 6 Ultimate",
+              "brandName": "Honor",
+              "price": 1440.99,
+              "rating": 4.3,
+              "picture": "https://www.mobiledokan.co/wp-content/uploads/2023/08/Honor-Magic6-Ultimate-Purple.webp"
+            },
+            {
+              "productId": "prod003",
+              "productName": "Samsung Galaxy S24 FE",
+              "brandName": "Samsung",
+              "price": 799.99,
+              "rating": 4.0,
+              "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/04/Samsung-Galaxy-S24-FE-Blue.webp"
+            }
+          ]
+        },
+        {
+          "subCategoryId": "sub002",
+          "subCategoryName": "Laptops",
+          "products": [
+            {
+              "productId": "prod004",
+              "productName": "Xiaomi Mi Notebook Pro 14",
+              "brandName": "Xiaomi",
+              "price": 1199.99,
+              "rating": 4.7,
+              "picture": "https://www.mobiledokan.co/wp-content/uploads/2021/07/Xiaomi-Mi-Notebook-Pro-14-Pro-Ultra-15.6-laptops-tipped-to-launch-in-India-soon-780x470.jpg"
+            },
+            {
+              "productId": "prod005",
+              "productName": "Infinix ZeroBook 13",
+              "brandName": "Infinix",
+              "price": 799.99,
+              "rating": 4.4,
+              "picture": "https://www.mobiledokan.co/wp-content/uploads/2023/07/Infinix-launches-ZERO-BOOK-13-series-notebooks-in-India-780x470.webp"
+            },
+            {
+              "productId": "prod006",
+              "productName": "Huawei MateBook D16",
+              "brandName": "Huawei",
+              "price": 1499.99,
+              "rating": 4.9,
+              "picture": "https://www.mobiledokan.co/wp-content/uploads/2022/06/Huawei-launches-MateBook-D16-16s-and-Freebuds-Pro-2-in-Europe-780x470.jpg"
+            }
+          ]
+        },
+        {
+          "subCategoryId": "sub007",
+          "subCategoryName": "Tablets",
+          "products": [
+            {
+              "productId": "prod007",
+              "productName": "Tablet A",
+              "brandName": "Brand S",
+              "price": 299.99,
+              "rating": 4.3,
+              "picture": "https://example.com/tabletA.jpg"
+            },
+            {
+              "productId": "prod008",
+              "productName": "Tablet B",
+              "brandName": "Brand T",
+              "price": 399.99,
+              "rating": 4.5,
+              "picture": "https://example.com/tabletB.jpg"
+            },
+            {
+              "productId": "prod009",
+              "productName": "Tablet C",
+              "brandName": "Brand U",
+              "price": 199.99,
+              "rating": 4.0,
+              "picture": "https://example.com/tabletC.jpg"
+            }
+          ]
+        },
+        {
+          "subCategoryId": "sub008",
+          "subCategoryName": "Cameras",
+          "products": [
+            {
+              "productId": "prod010",
+              "productName": "Camera A",
+              "brandName": "Brand V",
+              "price": 899.99,
+              "rating": 4.8,
+              "picture": "https://example.com/cameraA.jpg"
+            },
+            {
+              "productId": "prod011",
+              "productName": "Camera B",
+              "brandName": "Brand W",
+              "price": 699.99,
+              "rating": 4.6,
+              "picture": "https://example.com/cameraB.jpg"
+            },
+            {
+              "productId": "prod012",
+              "productName": "Camera C",
+              "brandName": "Brand X",
+              "price": 499.99,
+              "rating": 4.4,
+              "picture": "https://example.com/cameraC.jpg"
+            }
+          ]
+        },
+        {
+          "subCategoryId": "sub009",
+          "subCategoryName": "Televisions",
+          "products": [
+            {
+              "productId": "prod013",
+              "productName": "TV A",
+              "brandName": "Brand Y",
+              "price": 1200.00,
+              "rating": 4.7,
+              "picture": "https://example.com/tvA.jpg"
+            },
+            {
+              "productId": "prod014",
+              "productName": "TV B",
+              "brandName": "Brand Z",
+              "price": 900.00,
+              "rating": 4.5,
+              "picture": "https://example.com/tvB.jpg"
+            },
+            {
+              "productId": "prod015",
+              "productName": "TV C",
+              "brandName": "Brand AA",
+              "price": 700.00,
+              "rating": 4.2,
+              "picture": "https://example.com/tvC.jpg"
+            }
+          ]
+        },
+        {
+          "subCategoryId": "sub010",
+          "subCategoryName": "Headphones",
+          "products": [
+            {
+              "productId": "prod016",
+              "productName": "Headphone A",
+              "brandName": "Brand BB",
+              "price": 99.99,
+              "rating": 4.6,
+              "picture": "https://example.com/headphoneA.jpg"
+            },
+            {
+              "productId": "prod017",
+              "productName": "Headphone B",
+              "brandName": "Brand CC",
+              "price": 79.99,
+              "rating": 4.3,
+              "picture": "https://example.com/headphoneB.jpg"
+            },
+            {
+              "productId": "prod018",
+              "productName": "Headphone C",
+              "brandName": "Brand DD",
+              "price": 49.99,
+              "rating": 4.1,
+              "picture": "https://example.com/headphoneC.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryId": "cat002",
+      "categoryName": "Home Appliances",
+      "subCategories": [
+        {
+          "subCategoryId": "sub003",
+          "subCategoryName": "Refrigerators",
+          "products": [
+            {
+              "productId": "prod019",
+              "productName": "Fridge A",
+              "brandName": "Brand A",
+              "price": 1200.00,
+              "rating": 4.8,
+              "picture": "https://example.com/fridgeA.jpg"
+            },
+            {
+              "productId": "prod020",
+              "productName": "Fridge B",
+              "brandName": "Brand B",
+              "price": 900.00,
+              "rating": 4.5,
+              "picture": "https://example.com/fridgeB.jpg"
+            },
+            {
+              "productId": "prod021",
+              "productName": "Fridge C",
+              "brandName": "Brand C",
+              "price": 700.00,
+              "rating": 4.3,
+              "picture": "https://example.com/fridgeC.jpg"
+            }
+          ]
+        },
+        {
+          "subCategoryId": "sub004",
+          "subCategoryName": "Washing Machines",
+          "products": [
+            {
+              "productId": "prod022",
+              "productName": "Washing Machine A",
+              "brandName": "Brand D",
+              "price": 800.00,
+              "rating": 4.6,
+              "picture": "https://example.com/washingMachineA.jpg"
+            },
+            {
+              "productId": "prod023",
+              "productName": "Washing Machine B",
+              "brandName": "Brand E",
+              "price": 600.00,
+              "rating": 4.2,
+              "picture": "https://example.com/washingMachineB.jpg"
+            },
+            {
+              "productId": "prod024",
+              "productName": "Washing Machine C",
+              "brandName": "Brand F",
+              "price": 400.00,
+              "rating": 4.0,
+              "picture": "https://example.com/washingMachineC.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryId": "cat003",
+      "categoryName": "Clothing",
+      "subCategories": [
+        {
+          "subCategoryId": "sub005",
+          "subCategoryName": "Men's Clothing",
+          "products": [
+            {
+              "productId": "prod025",
+              "productName": "T-shirt A",
+              "brandName": "Brand G",
+              "price": 19.99,
+              "rating": 4.3,
+              "picture": "https://example.com/tshirtA.jpg"
+            },
+            {
+              "productId": "prod026",
+              "productName": "Jeans A",
+              "brandName": "Brand H",
+              "price": 49.99,
+              "rating": 4.5,
+              "picture": "https://example.com/jeansA.jpg"
+            },
+            {
+              "productId": "prod027",
+              "productName": "Jacket A",
+              "brandName": "Brand I",
+              "price": 89.99,
+              "rating": 4.7,
+              "picture": "https://example.com/jacketA.jpg"
+            }
+          ]
+        },
+        {
+          "subCategoryId": "sub006",
+          "subCategoryName": "Women's Clothing",
+          "products": [
+            {
+              "productId": "prod028",
+              "productName": "Dress A",
+              "brandName": "Brand J",
+              "price": 39.99,
+              "rating": 4.4,
+              "picture": "https://example.com/dressA.jpg"
+            },
+            {
+              "productId": "prod029",
+              "productName": "Skirt A",
+              "brandName": "Brand K",
+              "price": 29.99,
+              "rating": 4.1,
+              "picture": "https://example.com/skirtA.jpg"
+            },
+            {
+              "productId": "prod030",
+              "productName": "Blouse A",
+              "brandName": "Brand L",
+              "price": 24.99,
+              "rating": 4.3,
+              "picture": "https://example.com/blouseA.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
