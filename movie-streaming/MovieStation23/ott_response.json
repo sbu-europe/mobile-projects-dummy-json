@@ -8,8 +8,8 @@
                 "year": 2010,
                 "description": "A thief who enters the dreams of others to steal their secrets.",
                 "duration": 148,
-                "videoLink": "https://example.com/inception_video",
-                "thumbnail": "inception_poster"
+                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Inception%20/Inception%20(2010)%20Official%20Trailer%20.mp4",
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Inception%20/304867-1536x2732-iphone-hd-inception-background-image.jpg"
             },
             {
                 "id": 2,
@@ -18,8 +18,8 @@
                 "year": 2008,
                 "description": "Batman faces the Joker, who brings chaos to Gotham City.",
                 "duration": 152,
-                "videoLink": "https://example.com/dark_knight_video",
-                "thumbnail": "dark_knight_poster"
+                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/The%20Dark%20Knight%20/The%20Dark%20Knight%20(2008)%20Official%20Trailer%20.mp4",
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/The%20Dark%20Knight%20/ce1f5ab8c8ee37619902b43875c141c9.jpg"
             },
             {
                 "id": 231,
@@ -28,8 +28,8 @@
                 "year": 2002,
                 "description": "After being bitten by a genetically altered spider, a nerdy high school student gains superpowers and fights crime.",
                 "duration": 121,
-                "videoLink": "https://example.com/spiderman_2002_video",
-                "thumbnail": "spiderman_2002_poster"
+                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Spider-Man%20/SPIDER-MAN%20%5B2002%5D%20%E2%80%93%20Official%20Trailer%20(HD).mp4",
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Spider-Man%20/e96e814dd5ebf2a304a17c076d33db72.jpg"
             },
             {
                 "id": 112,
@@ -38,8 +38,8 @@
                 "year": 2002,
                 "description": "Frodo and Sam continue their journey to destroy the One Ring, while Aragorn struggles to unite the free peoples of Middle-earth.",
                 "duration": 179,
-                "videoLink": "https://example.com/lotr_two_towers_video",
-                "thumbnail": "lotr_two_towers_poster"
+                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Lord%20of%20the%20Rings-%20The%20Two%20Towers%20/The%20Two%20Towers%20_%20The%20Lord%20of%20the%20Rings%204K%20Ultra%20HD%20_%20Warner%20Bros.%20Entertainment.mp4",
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Lord%20of%20the%20Rings-%20The%20Two%20Towers%20/78af41b9513936cda452abfbc479e951.jpg"
             },
             {
                 "id": 32,
@@ -48,8 +48,8 @@
                 "year": 2002,
                 "description": "A murderess, a wannabe vaudeville star, and their lawyer scheme to become media sensations.",
                 "duration": 113,
-                "videoLink": "https://example.com/chicago_2002_video",
-                "thumbnail": "chicago_2002_poster"
+                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Chicago/Chicago%20_%20Official%20Trailer%20(HD)%20-%20Renee%20Zellweger%2C%20Catherine%20Zeta-Jones%20_%20MIRAMAX.mp4",
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Chicago/eec804e88ab5588289ef5ae576849179.jpg"
             }
         ],
         "tvSeries": [
@@ -72,19 +72,19 @@
                                 "title": "The Vanishing of Will Byers",
                                 "thumbnail": "stranger_things_ep1_thumb",
                                 "duration": "48m",
-                                "videoLink": "https://example.com/stranger_things_ep1_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Stranger%20Things/Stranger%20Things%20_%20Official%20Final%20Trailer%20_%20Netflix.mp4"
                             },
                             {
                                 "id": 2,
                                 "title": "The Weirdo on Maple Street",
                                 "thumbnail": "stranger_things_ep2_thumb",
                                 "duration": "55m",
-                                "videoLink": "https://example.com/stranger_things_ep2_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Stranger%20Things/Stranger%20Things%20_%20Official%20Final%20Trailer%20_%20Netflix.mp4"
                             }
                         ]
                     }
                 ],
-                "thumbnail": "stranger_things_poster"
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Stranger%20Things/HD-wallpaper-stranger-things-2-down-upside.jpg"
             },
             {
                 "id": 91,
@@ -105,19 +105,19 @@
                                 "title": "Celebration",
                                 "thumbnail": "succession_s1e1_thumb",
                                 "duration": "62m",
-                                "videoLink": "https://example.com/succession_s1e1_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Succession/Succession_%20Season%201%20_%20Official%20Trailer%20_%20HBO.mp4"
                             },
                             {
                                 "id": 2,
                                 "title": "Shit Show at the Fuck Factory",
                                 "thumbnail": "succession_s1e2_thumb",
                                 "duration": "60m",
-                                "videoLink": "https://example.com/succession_s1e2_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Succession/Succession_%20Season%201%20_%20Official%20Trailer%20_%20HBO.mp4"
                             }
                         ]
                     }
                 ],
-                "thumbnail": "succession_poster"
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Succession/images.jpeg"
             },
             {
                 "id": 31,
@@ -138,19 +138,19 @@
                                 "title": "Openings",
                                 "thumbnail": "queens_gambit_e1_thumb",
                                 "duration": "60m",
-                                "videoLink": "https://example.com/queens_gambit_e1_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Queen's%20Gambit/The%20Queen's%20Gambit%20Limited%20Series%20Trailer%20_%20Rotten%20Tomatoes%20TV.mp4"
                             },
                             {
                                 "id": 2,
                                 "title": "Exchanges",
                                 "thumbnail": "queens_gambit_e2_thumb",
                                 "duration": "67m",
-                                "videoLink": "https://example.com/queens_gambit_e2_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Queen's%20Gambit/The%20Queen's%20Gambit%20Limited%20Series%20Trailer%20_%20Rotten%20Tomatoes%20TV.mp4"
                             }
                         ]
                     }
                 ],
-                "thumbnail": "queens_gambit_poster"
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/The%20Queen's%20Gambit/94cd2e72f66ef7c2449309f0e1590304.jpg"
             },
             {
                 "id": 28,
@@ -171,19 +171,19 @@
                                 "title": "Episode 1",
                                 "thumbnail": "peaky_blinders_s1e1_thumb",
                                 "duration": "58m",
-                                "videoLink": "https://example.com/peaky_blinders_s1e1_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Peaky%20Blinders%20/Peaky%20Blinders%20Season%206%20Official%20Trailer%20_%20Netflix%20India.mp4"
                             },
                             {
                                 "id": 2,
                                 "title": "Episode 2",
                                 "thumbnail": "peaky_blinders_s1e2_thumb",
                                 "duration": "57m",
-                                "videoLink": "https://example.com/peaky_blinders_s1e2_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Peaky%20Blinders%20/Peaky%20Blinders%20Season%206%20Official%20Trailer%20_%20Netflix%20India.mp4"
                             }
                         ]
                     }
                 ],
-                "thumbnail": "peaky_blinders_poster"
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Peaky%20Blinders%20/6fb4ad00e6a713df62f57b5b56820626.jpg"
             },
             {
                 "id": 69,
@@ -204,19 +204,19 @@
                                 "title": "Pilot",
                                 "thumbnail": "office_s1e1_thumb",
                                 "duration": "23m",
-                                "videoLink": "https://example.com/office_s1e1_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Office%20(US)/The%20Office%20(US)%20_%20Trailer%20Oficial%20_%20HBO%20Max.mp4"
                             },
                             {
                                 "id": 2,
                                 "title": "Diversity Day",
                                 "thumbnail": "office_s1e2_thumb",
                                 "duration": "22m",
-                                "videoLink": "https://example.com/office_s1e2_link"
+                                "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Office%20(US)/The%20Office%20(US)%20_%20Trailer%20Oficial%20_%20HBO%20Max.mp4"
                             }
                         ]
                     }
                 ],
-                "thumbnail": "office_poster"
+                "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/The%20Office%20(US)/the-office-iphone-nn1dy7vp9zkdgeob.jpg"
             }
         ]
     },
@@ -224,22 +224,22 @@
         {
             "id": 21,
             "title": "Avengers: Endgame",
-            "thumbnail": "https://example.com/images/endgame.jpg",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Avengers%20Endgame/HD-wallpaper-avengers-endgame-end-war.jpg",
             "year": 2019,
             "rating": 8.4,
             "duration": 181,
             "description": "The Avengers unite to undo the havoc wreaked by Thanos in this epic conclusion to the Marvel Cinematic Universe's Infinity Saga. Directed by Anthony and Joe Russo.",
-            "videoLink": "https://example.com/videos/avengers_endgame.mp4"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Avengers%20Endgame/Marvel%20Studios'%20Avengers_%20Endgame%20-%20Official%20Trailer.mp4"
         },
         {
             "id": 42,
             "title": "Joker",
-            "thumbnail": "https://example.com/images/joker.jpg",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Joker/images.jpeg",
             "year": 2019,
             "rating": 8.5,
             "duration": 122,
             "description": "A psychological thriller that delves into the origin of Batman's most iconic nemesis, the Joker. Directed by Todd Phillips, the film explores the societal influences that lead to Arthur Fleck's transformation.",
-            "videoLink": "https://example.com/videos/joker.mp4"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Joker/JOKER%20-%20Final%20Trailer%20-%20Now%20Playing%20In%20Theaters.mp4"
         },
         {
             "id": 14,
@@ -248,8 +248,8 @@
             "year": 2014,
             "description": "A group of explorers travels through a wormhole to save humanity.",
             "duration": 169,
-            "videoLink": "https://example.com/interstellar_video",
-            "thumbnail": "interstellar_poster"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Interstellar/Interstellar%20-%20Trailer%20-%20Official%20Warner%20Bros.%20UK.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Interstellar/2ab865a4f1a355805f31fbd5c117d954.jpg"
         },
         {
             "id": 55,
@@ -258,67 +258,67 @@
             "year": 1999,
             "description": "A hacker discovers the reality he's living in is a simulated world.",
             "duration": 136,
-            "videoLink": "https://example.com/matrix_video",
-            "thumbnail": "matrix_poster"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/The%20Matrix/The%20Matrix%20(1999)%20Official%20Trailer%20.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/The%20Matrix/images.jpeg"
         },
         {
             "id": 16,
             "title": "Spirited Away",
-            "thumbnail": "[invalid URL removed]",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Spirited%20Away/ec047b2cbb3962b09694b57ce134b1b1.jpg",
             "year": 2001,
             "rating": 8.9,
             "duration": 125,
             "description": "A young girl enters the world of spirits and must find a way to free herself and her parents. A coming-of-age fantasy film written and directed by Hayao Miyazaki.",
-            "videoLink": "[invalid URL removed]"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Spirited%20Away/videoplayback.mp4"
         },
         {
             "id": 22,
             "title": "The Shawshank Redemption",
-            "thumbnail": "[invalid URL removed]",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/The%20Shawshank%20Redemption/images.jpeg",
             "year": 1994,
             "rating": 9.3,
             "duration": 142,
             "description": "A drama film based on the Stephen King novella of the same name, it tells the story of Andy Dufresne, a man sentenced to life in prison for the murder of his wife, despite his claims of innocence.  Directed by Frank Darabont.",
-            "videoLink": "[invalid URL removed]"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/The%20Shawshank%20Redemption/The%20Shawshank%20Redemption%20_%20Trailer%20_%20Warner%20Bros.%20Entertainment.mp4"
         },
         {
-            "id": 3,
+            "id": 1,
             "title": "Inception",
-            "thumbnail": "[invalid URL removed]",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Inception%20/304867-1536x2732-iphone-hd-inception-background-image.jpg",
             "year": 2010,
             "rating": 8.8,
             "duration": 148,
             "description": "A science fiction action film written, produced, and directed by Christopher Nolan.  Dom Cobb, a professional thief who steals information by entering people's dreams, is given the inverse task of planting an idea into the mind of a C.E.O.",
-            "videoLink": "[invalid URL removed]"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Inception%20/Inception%20(2010)%20Official%20Trailer%20.mp4"
         },
         {
             "id": 48,
             "title": "Parasite",
-            "thumbnail": "[invalid URL removed]",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/Parasite%20/images.jpeg",
             "year": 2019,
             "rating": 8.6,
             "duration": 132,
             "description": "A dark comedy thriller film directed by Bong Joon-ho.  Members of a poor family scheme to become employed by a wealthy family, leading to a sequence of events with increasingly sinister consequences.",
-            "videoLink": "[invalid URL removed]"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/Parasite%20/Parasite%20-%20Official%20Trailer%20(2019)%20Bong%20Joon%20Ho%20Film.mp4"
         },
         {
             "id": 95,
             "title": "The Lord of the Rings: The Fellowship of the Ring",
-            "thumbnail": "[invalid URL removed]",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/The%20Lord%20of%20the%20Rings-%20The%20Fellowship%20of%20the%20Ring%20/images%20(1).jpeg",
             "year": 2001,
             "rating": 8.8,
             "description": "The first installment in The Lord of the Rings trilogy, directed by Peter Jackson.  A hobbit named Frodo inherits the One Ring, and with the help of a fellowship embarks on a quest to destroy it.",
-            "videoLink": "[invalid URL removed]"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/The%20Lord%20of%20the%20Rings-%20The%20Fellowship%20of%20the%20Ring%20/The%20Fellowship%20of%20the%20Ring%20_%20The%20Lord%20of%20the%20Rings%204K%20Ultra%20HD%20_%20Warner%20Bros.%20Entertainment.mp4"
         },
         {
             "id": 6,
             "title": "The Godfather",
-            "thumbnail": "[invalid URL removed]",
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/Movies/The%20Godfather%20/9dd9e0c8eaff428f287ab535c64997be.jpg",
             "year": 1972,
             "rating": 9.2,
             "duration": 175,
             "description": "A crime drama film directed by Francis Ford Coppola, based on Mario Puzo's 1969 novel of the same name.  Don Corleone, the head of a powerful New York Mafia family, faces challenges from both inside and outside his organization.",
-            "videoLink": "[invalid URL removed]"
+            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/Movies/The%20Godfather%20/THE%20GODFATHER%20_%2050th%20Anniversary%20Trailer%20_%20Paramount%20Pictures.mp4"
         }
     ],
     "popularTVSeries": [
@@ -341,19 +341,19 @@
                             "title": "Winter Is Coming",
                             "thumbnail": "got_ep1_thumb",
                             "duration": "1h",
-                            "videoLink": "https://example.com/got_ep1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Game%20of%20Thrones/Game%20of%20Thrones%20_%20Official%20Series%20Trailer%20(HBO).mp4"
                         },
                         {
                             "id": 2,
                             "title": "The Kingsroad",
                             "thumbnail": "got_ep2_thumb",
                             "duration": "56m",
-                            "videoLink": "https://example.com/got_ep2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Game%20of%20Thrones/Game%20of%20Thrones%20_%20Official%20Series%20Trailer%20(HBO).mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "got_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Game%20of%20Thrones/game-of-thrones-daenerys-targaryen-wallpaper-preview.jpg"
         },
         {
             "id": 7,
@@ -374,19 +374,19 @@
                             "title": "Chapter 1: The Mandalorian",
                             "thumbnail": "mandalorian_ep1_thumb",
                             "duration": "40m",
-                            "videoLink": "https://example.com/mandalorian_ep1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Mandalorian/The%20Mandalorian%20_%20Official%20Trailer%20_%20Disney%20%20_%20Streaming%20Nov.%2012.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Chapter 2: The Child",
                             "thumbnail": "mandalorian_ep2_thumb",
                             "duration": "33m",
-                            "videoLink": "https://example.com/mandalorian_ep2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Mandalorian/The%20Mandalorian%20_%20Official%20Trailer%20_%20Disney%20%20_%20Streaming%20Nov.%2012.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "mandalorian_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/The%20Mandalorian/ac1dbea3218ddebfbf28ea4d10f43fe1.jpg"
         },
         {
             "id": 8,
@@ -407,19 +407,19 @@
                             "title": "Pilot",
                             "thumbnail": "bb_s1e1_thumb",
                             "duration": "58m",
-                            "videoLink": "https://example.com/bb_s1e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Breaking%20Bad/Breaking%20Bad%20Trailer%20(First%20Season).mp4"
                         },
                         {
                             "id": 2,
                             "title": "Cat's in the Bag...",
                             "thumbnail": "bb_s1e2_thumb",
                             "duration": "48m",
-                            "videoLink": "https://example.com/bb_s1e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Breaking%20Bad/Breaking%20Bad%20Trailer%20(First%20Season).mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "breaking_bad_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Breaking%20Bad/HD-wallpaper-breaking-bad-thumbnail.jpg"
         },
         {
             "id": 9,
@@ -440,19 +440,19 @@
                             "title": "Chapter One: The Vanishing of Will Byers",
                             "thumbnail": "st_s1e1_thumb",
                             "duration": "49m",
-                            "videoLink": "https://example.com/st_s1e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Stranger%20Things/Stranger%20Things%20_%20Official%20Final%20Trailer%20_%20Netflix.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Chapter Two: The Weirdo on Maple Street",
                             "thumbnail": "st_s1e2_thumb",
                             "duration": "56m",
-                            "videoLink": "https://example.com/st_s1e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Stranger%20Things/Stranger%20Things%20_%20Official%20Final%20Trailer%20_%20Netflix.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "stranger_things_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Stranger%20Things/HD-wallpaper-stranger-things-2-down-upside.jpg"
         },
         {
             "id": 10,
@@ -473,19 +473,19 @@
                             "title": "Wolferton Splash",
                             "thumbnail": "crown_s1e1_thumb",
                             "duration": "57m",
-                            "videoLink": "https://example.com/crown_s1e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Crown/videoplayback.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Hyde Park Corner",
                             "thumbnail": "crown_s1e2_thumb",
                             "duration": "61m",
-                            "videoLink": "https://example.com/crown_s1e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Crown/videoplayback.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "the_crown_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/The%20Crown/the-crown-r8cxxpeevqqf48kh.jpg"
         },
         {
             "id": 11,
@@ -506,19 +506,19 @@
                             "title": "Chapter 1: The Mandalorian",
                             "thumbnail": "mando_s1e1_thumb",
                             "duration": "39m",
-                            "videoLink": "https://example.com/mando_s1e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/How%20I%20Met%20Your%20Mother/videoplayback.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Chapter 2: The Child",
                             "thumbnail": "mando_s1e2_thumb",
                             "duration": "32m",
-                            "videoLink": "https://example.com/mando_s1e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/How%20I%20Met%20Your%20Mother/videoplayback.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "himym_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/How%20I%20Met%20Your%20Mother/images.jpeg"
         },
         {
             "id": 12,
@@ -539,19 +539,19 @@
                             "title": "1:23:45",
                             "thumbnail": "chernobyl_e1_thumb",
                             "duration": "59m",
-                            "videoLink": "https://example.com/chernobyl_e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Chernobyl/Chernobyl%20(2019)%20_%20Official%20Trailer%20_%20HBO.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Please Remain Calm",
                             "thumbnail": "chernobyl_e2_thumb",
                             "duration": "65m",
-                            "videoLink": "https://example.com/chernobyl_e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Chernobyl/Chernobyl%20(2019)%20_%20Official%20Trailer%20_%20HBO.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "chernobyl_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Chernobyl/2f3f6182770d9ee6901b87cd4e4aabce.jpg"
         },
         {
             "id": 13,
@@ -572,19 +572,19 @@
                             "title": "The End's Beginning",
                             "thumbnail": "witcher_s1e1_thumb",
                             "duration": "61m",
-                            "videoLink": "https://example.com/witcher_s1e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Witcher/THE%20WITCHER%20_%20MAIN%20TRAILER%20_%20NETFLIX.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Four Marks",
                             "thumbnail": "witcher_s1e2_thumb",
                             "duration": "61m",
-                            "videoLink": "https://example.com/witcher_s1e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Witcher/THE%20WITCHER%20_%20MAIN%20TRAILER%20_%20NETFLIX.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "witcher_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/The%20Witcher/4adc03522a19bb915c9a89b466a5b19e.jpg"
         },
         {
             "id": 14,
@@ -605,19 +605,19 @@
                             "title": "The Name of the Game",
                             "thumbnail": "boys_s1e1_thumb",
                             "duration": "61m",
-                            "videoLink": "https://example.com/boys_s1e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Boys/The%20Boys%20-%20Official%20Trailer%20_%20Prime%20Video.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Cherry",
                             "thumbnail": "boys_s1e2_thumb",
                             "duration": "60m",
-                            "videoLink": "https://example.com/boys_s1e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/The%20Boys/The%20Boys%20-%20Official%20Trailer%20_%20Prime%20Video.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "the_boys_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/The%20Boys/cc439aa4db41203ee88ddb42cf0c66f0.jpg"
         },
         {
             "id": 15,
@@ -638,19 +638,19 @@
                             "title": "The National Anthem",
                             "thumbnail": "bm_s1e1_thumb",
                             "duration": "44m",
-                            "videoLink": "https://example.com/bm_s1e1_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Black%20Mirror/Black%20Mirror%20_%20Trailer%20%5BHD%5D%20_%20Netflix.mp4"
                         },
                         {
                             "id": 2,
                             "title": "Fifteen Million Merits",
                             "thumbnail": "bm_s1e2_thumb",
                             "duration": "62m",
-                            "videoLink": "https://example.com/bm_s1e2_link"
+                            "videoLink": "https://github.com/RAnamRoh/dummyData/raw/main/MovieStation23/TV/Black%20Mirror/Black%20Mirror%20_%20Trailer%20%5BHD%5D%20_%20Netflix.mp4"
                         }
                     ]
                 }
             ],
-            "thumbnail": "black_mirror_poster"
+            "thumbnail": "https://raw.githubusercontent.com/RAnamRoh/dummyData/main/MovieStation23/TV/Black%20Mirror/7f3zpkh65mtx.jpg"
         }
     ]
 }
