@@ -1,10 +1,46 @@
 {
   "categories": [
-    "Electronics",
-    "Home Appliances",
-    "Clothing",
-    "Books",
-    "Beauty & Personal Care",
-    "Sports & Outdoors"
+    {
+      "categoryName": "Electronics",
+      "subcategories": [
+        {
+          "subcategoryName": "Mobile Phones"
+        },
+        {
+          "subcategoryName": "Laptops"
+        },
+        {
+          "subcategoryName": "Tablets"
+        },
+        {
+          "subcategoryName": "Smart Watches"
+        },
+        {
+          "subcategoryName": "Televisions"
+        }
+      ]
+    },
+    {
+      "categoryName": "Home Appliances",
+      "subcategories": [
+        {
+          "subcategoryName": "Refrigerators"
+        },
+        {
+          "subcategoryName": "Washing Machines"
+        }
+      ]
+    },
+    {
+      "categoryName": "Clothing",
+      "subcategories": [
+        {
+          "subcategoryName": "Men's Clothing"
+        },
+        {
+          "subcategoryName": "Women's Clothing"
+        }
+      ]
+    }
   ]
 }
