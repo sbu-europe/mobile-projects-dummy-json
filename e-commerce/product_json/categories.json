@@ -2,6 +2,7 @@
   "categories": [
     {
       "categoryName": "Electronics",
+      "id": "electronics.json",
       "subcategories": [
         {
           "subcategoryName": "Mobile Phones"
@@ -22,6 +23,7 @@
     },
     {
       "categoryName": "Home Appliances",
+      "id": "home_appliances.json",
       "subcategories": [
         {
           "subcategoryName": "Refrigerators"
@@ -33,6 +35,7 @@
     },
     {
       "categoryName": "Clothing",
+      "id": "clothing.json",
       "subcategories": [
         {
           "subcategoryName": "Men's Clothing"

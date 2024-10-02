@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "productId": "prod025",
+      "productName": "Mens Premium T-Shirt",
+      "brandName": "Fabrilife",
+      "price": 5.99,
+      "rating": 4.7,
+      "picture": "https://fabrilife.com/products/66c4ab5549a22-square.jpg?v=20",
+      "category": "Clothing",
+      "subcategory": "Men's Clothing"
+    },
+    {
+      "productId": "prod026",
+      "productName": "Mens Premium T-Shirt- Nyctophilia",
+      "brandName": "Fabrilife",
+      "price": 5.99,
+      "rating": 4.8,
+      "picture": "https://fabrilife.com/products/6677f6c98427d-square.jpg?v=20",
+      "category": "Clothing",
+      "subcategory": "Men's Clothing"
+    },
+    {
+      "productId": "prod027",
+      "productName": "T Shirt - Incarnation",
+      "brandName": "Fabrilife",
+      "price": 6.30,
+      "rating": 4.7,
+      "picture": "https://fabrilife.com/products/631489d264690-square.jpg?v=20",
+      "category": "Clothing",
+      "subcategory": "Men's Clothing"
+    },
+    {
+      "productId": "prod028",
+      "productName": "Cotton Taaga Skirt",
+      "brandName": "Aarong",
+      "price": 12.99,
+      "rating": 4.4,
+      "picture": "https://www.aarong.com/media/catalog/product/0/4/0410000103400.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=667&width=500&canvas=500:667&dpr=2%202x",
+      "category": "Clothing",
+      "subcategory": "Women's Clothing"
+    },
+    {
+      "productId": "prod029",
+      "productName": "Viscose Taaga Top",
+      "brandName": "Aarong",
+      "price": 19.99,
+      "rating": 4.1,
+      "picture": "https://www.aarong.com/media/catalog/product/0/4/0410000106844.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=667&width=500&canvas=500:667&dpr=2%202x",
+      "category": "Clothing",
+      "subcategory": "Women's Clothing"
+    },
+    {
+      "productId": "prod030",
+      "productName": "Purple Check Viscose",
+      "brandName": "Aarong",
+      "price": 9.99,
+      "rating": 4.8,
+      "picture": "https://www.aarong.com/media/catalog/product/0/4/0410000108297.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=667&width=500&canvas=500:667&dpr=2%202x",
+      "category": "Clothing",
+      "subcategory": "Women's Clothing"
+    }
+  ]
+}

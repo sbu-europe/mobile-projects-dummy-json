@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "productId": "prod019",
+      "productName": "Walton Fridge WFK-3G0-GDEL-XX",
+      "brandName": "Walton",
+      "price": 533.50,
+      "rating": 4.5,
+      "picture": "https://waltonbd.com/image/magictoolbox_cache/cf3e6ec01aac7cb79461bcfe9d0d075e/3/3/3359_product/thumb1000x1000/3550577642/wfk-3g0-gdel-xx-v2-id-1.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "prod020",
+      "productName": "Walton Fridge WFS-TN3-RBXX-XX",
+      "brandName": "Walton",
+      "price": 900.00,
+      "rating": 4.5,
+      "picture": "https://waltonbd.com/image/magictoolbox_cache/cf3e6ec01aac7cb79461bcfe9d0d075e/5/6/5625_product/thumb1000x1000/2435468129/wfs-tn3-rbxx-xx.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "prod021",
+      "productName": "Walton Fridge WFA-2B5-ELRD-XX",
+      "brandName": "Walton",
+      "price": 292.00,
+      "rating": 4.7,
+      "picture": "https://waltonbd.com/image/magictoolbox_cache/cf3e6ec01aac7cb79461bcfe9d0d075e/5/7/5757_product/thumb1000x1000/2869180943/wfa-2b5-elrd-xx-id-a.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "prod022",
+      "productName": "Walton Washing Machine WWM-ATH80W",
+      "brandName": "Walton",
+      "price": 499.00,
+      "rating": 4.6,
+      "picture": "https://eplaza.waltonbd.com/image/cache/data/wwm-ath80W-01%20copy_1-500x500.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Washing Machines"
+    },
+    {
+      "productId": "prod023",
+      "productName": "Walton Washing Machine WWM-TQM150",
+      "brandName": "Walton",
+      "price": 699.00,
+      "rating": 4.3,
+      "picture": "https://eplaza.waltonbd.com/image/cache/data/washing-machine/automatic-top-load/wwm-tqm150/wwm-tqp150-1-500x500.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Washing Machines"
+    },
+    {
+      "productId": "prod024",
+      "productName": "Walton Washing Machine WWM-AFT90W",
+      "brandName": "Walton",
+      "price": 622.50,
+      "rating": 4.0,
+      "picture": "https://eplaza.waltonbd.com/image/cache/data/WWM-AFT90W-1-500x500.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Washing Machines"
+    }
+  ]
+}
