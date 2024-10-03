@@ -1,0 +1,273 @@
+{
+  "products": [
+    {
+      "productId": "prod025",
+      "productName": "Mens Premium T-Shirt",
+      "brandName": "Fabrilife",
+      "price": 5.99,
+      "rating": 4.7,
+      "picture": "https://fabrilife.com/products/66c4ab5549a22-square.jpg?v=20",
+      "category": "Clothing",
+      "subcategory": "Men's Clothing"
+    },
+    {
+      "productId": "prod026",
+      "productName": "Mens Premium T-Shirt- Nyctophilia",
+      "brandName": "Fabrilife",
+      "price": 5.99,
+      "rating": 4.8,
+      "picture": "https://fabrilife.com/products/6677f6c98427d-square.jpg?v=20",
+      "category": "Clothing",
+      "subcategory": "Men's Clothing"
+    },
+    {
+      "productId": "prod027",
+      "productName": "T Shirt - Incarnation",
+      "brandName": "Fabrilife",
+      "price": 6.30,
+      "rating": 4.7,
+      "picture": "https://fabrilife.com/products/631489d264690-square.jpg?v=20",
+      "category": "Clothing",
+      "subcategory": "Men's Clothing"
+    },
+    {
+      "productId": "prod028",
+      "productName": "Cotton Taaga Skirt",
+      "brandName": "Aarong",
+      "price": 12.99,
+      "rating": 4.4,
+      "picture": "https://www.aarong.com/media/catalog/product/0/4/0410000103400.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=667&width=500&canvas=500:667&dpr=2%202x",
+      "category": "Clothing",
+      "subcategory": "Women's Clothing"
+    },
+    {
+      "productId": "prod029",
+      "productName": "Viscose Taaga Top",
+      "brandName": "Aarong",
+      "price": 19.99,
+      "rating": 4.1,
+      "picture": "https://www.aarong.com/media/catalog/product/0/4/0410000106844.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=667&width=500&canvas=500:667&dpr=2%202x",
+      "category": "Clothing",
+      "subcategory": "Women's Clothing"
+    },
+    {
+      "productId": "prod030",
+      "productName": "Purple Check Viscose",
+      "brandName": "Aarong",
+      "price": 9.99,
+      "rating": 4.8,
+      "picture": "https://www.aarong.com/media/catalog/product/0/4/0410000108297.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=667&width=500&canvas=500:667&dpr=2%202x",
+      "category": "Clothing",
+      "subcategory": "Women's Clothing"
+    },
+    {
+      "productId": "prod001",
+      "productName": "Honor 200",
+      "brandName": "Honor",
+      "price": 649.99,
+      "rating": 4.2,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/05/Honor-200-Pink.webp",
+      "category": "Electronics",
+      "subcategory": "Mobile Phones"
+    },
+    {
+      "productId": "prod002",
+      "productName": "Honor Magic 6 Ultimate",
+      "brandName": "Honor",
+      "price": 1440.99,
+      "rating": 4.3,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2023/08/Honor-Magic6-Ultimate-Purple.webp",
+      "category": "Electronics",
+      "subcategory": "Mobile Phones"
+    },
+    {
+      "productId": "prod003",
+      "productName": "Samsung Galaxy S24 FE",
+      "brandName": "Samsung",
+      "price": 799.99,
+      "rating": 4.0,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/04/Samsung-Galaxy-S24-FE-Blue.webp",
+      "category": "Electronics",
+      "subcategory": "Mobile Phones"
+    },
+    {
+      "productId": "prod004",
+      "productName": "Xiaomi Mi Notebook Pro 14",
+      "brandName": "Xiaomi",
+      "price": 1199.99,
+      "rating": 4.7,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2021/07/Xiaomi-Mi-Notebook-Pro-14-Pro-Ultra-15.6-laptops-tipped-to-launch-in-India-soon-780x470.jpg",
+      "category": "Electronics",
+      "subcategory": "Laptops"
+    },
+    {
+      "productId": "prod005",
+      "productName": "Infinix ZeroBook 13",
+      "brandName": "Infinix",
+      "price": 799.99,
+      "rating": 4.4,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2023/07/Infinix-launches-ZERO-BOOK-13-series-notebooks-in-India-780x470.webp",
+      "category": "Electronics",
+      "subcategory": "Laptops"
+    },
+    {
+      "productId": "prod006",
+      "productName": "Huawei MateBook D16",
+      "brandName": "Huawei",
+      "price": 1499.99,
+      "rating": 4.9,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2022/06/Huawei-launches-MateBook-D16-16s-and-Freebuds-Pro-2-in-Europe-780x470.jpg",
+      "category": "Electronics",
+      "subcategory": "Laptops"
+    },
+    {
+      "productId": "prod007",
+      "productName": "Honor Pad X8a",
+      "brandName": "Honor",
+      "price": 199.99,
+      "rating": 4.3,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/08/Honor-Pad-X8a-Space-Gray.webp",
+      "category": "Electronics",
+      "subcategory": "Tablets"
+    },
+    {
+      "productId": "prod008",
+      "productName": "Infinix Xpad",
+      "brandName": "Infinix",
+      "price": 199.99,
+      "rating": 4.1,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/06/Infinix-Xpad-Titan-Gold.webp",
+      "category": "Electronics",
+      "subcategory": "Tablets"
+    },
+    {
+      "productId": "prod009",
+      "productName": "Huawei MatePad Air",
+      "brandName": "Huawei",
+      "price": 559.99,
+      "rating": 4.8,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/08/Huawei-MatePad-Air-2024-Gray.webp",
+      "category": "Electronics",
+      "subcategory": "Tablets"
+    },
+    {
+      "productId": "prod010",
+      "productName": "Xiaomi Redmi Watch 5 Lite",
+      "brandName": "Xiaomi",
+      "price": 69.99,
+      "rating": 4.3,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/09/Xiaomi-Redmi-Watch-5-Lite-Light-Gold.webp",
+      "category": "Electronics",
+      "subcategory": "Smart Watches"
+    },
+    {
+      "productId": "prod011",
+      "productName": "Huawei Watch GT 5 Pro",
+      "brandName": "Huawei",
+      "price": 199.99,
+      "rating": 4.6,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/09/Huawei-Watch-GT-5-Pro-Black.webp",
+      "category": "Electronics",
+      "subcategory": "Smart Watches"
+    },
+    {
+      "productId": "prod012",
+      "productName": "Realme Watch S2",
+      "brandName": "Realme",
+      "price": 89.99,
+      "rating": 4.4,
+      "picture": "https://www.mobiledokan.co/wp-content/uploads/2024/06/Realme-Watch-S2-Ocean-Silver.webp",
+      "category": "Electronics",
+      "subcategory": "Smart Watches"
+    },
+    {
+      "productId": "prod013",
+      "productName": "Walton TV W43S6DG",
+      "brandName": "Walton",
+      "price": 600.00,
+      "rating": 4.7,
+      "picture": "https://waltonbd.com/image/catalog/category-banners/television/smart-tv/android-smart/led-tv-d-series/FS430.webp",
+      "category": "Electronics",
+      "subcategory": "Television"
+    },
+    {
+      "productId": "prod014",
+      "productName": "Samsung QLED TV 85",
+      "brandName": "Samsung",
+      "price": 3299.99,
+      "rating": 4.9,
+      "picture": "https://www.samsung.com/etc/designs/smg/global/imgs/support/cont/NO_IMG_600x600.png",
+      "category": "Electronics",
+      "subcategory": "Television"
+    },
+    {
+      "productId": "prod015",
+      "productName": "Xiaomi TV P1 55",
+      "brandName": "Xiaomi",
+      "price": 899.99,
+      "rating": 4.2,
+      "picture": "https://i01.appmifile.com/webfile/globalimg/in/cms/AFDD9FBE-72E9-9535-6A16-510E78D122D8.jpg",
+      "category": "Electronics",
+      "subcategory": "Television"
+    }, {
+      "productId": "prod019",
+      "productName": "Walton Fridge WFK-3G0-GDEL-XX",
+      "brandName": "Walton",
+      "price": 533.50,
+      "rating": 4.5,
+      "picture": "https://waltonbd.com/image/magictoolbox_cache/cf3e6ec01aac7cb79461bcfe9d0d075e/3/3/3359_product/thumb1000x1000/3550577642/wfk-3g0-gdel-xx-v2-id-1.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "prod020",
+      "productName": "Walton Fridge WFS-TN3-RBXX-XX",
+      "brandName": "Walton",
+      "price": 900.00,
+      "rating": 4.5,
+      "picture": "https://waltonbd.com/image/magictoolbox_cache/cf3e6ec01aac7cb79461bcfe9d0d075e/5/6/5625_product/thumb1000x1000/2435468129/wfs-tn3-rbxx-xx.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "prod021",
+      "productName": "Walton Fridge WFA-2B5-ELRD-XX",
+      "brandName": "Walton",
+      "price": 292.00,
+      "rating": 4.7,
+      "picture": "https://waltonbd.com/image/magictoolbox_cache/cf3e6ec01aac7cb79461bcfe9d0d075e/5/7/5757_product/thumb1000x1000/2869180943/wfa-2b5-elrd-xx-id-a.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Refrigerators"
+    },
+    {
+      "productId": "prod022",
+      "productName": "Walton Washing Machine WWM-ATH80W",
+      "brandName": "Walton",
+      "price": 499.00,
+      "rating": 4.6,
+      "picture": "https://eplaza.waltonbd.com/image/cache/data/wwm-ath80W-01%20copy_1-500x500.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Washing Machines"
+    },
+    {
+      "productId": "prod023",
+      "productName": "Walton Washing Machine WWM-TQM150",
+      "brandName": "Walton",
+      "price": 699.00,
+      "rating": 4.3,
+      "picture": "https://eplaza.waltonbd.com/image/cache/data/washing-machine/automatic-top-load/wwm-tqm150/wwm-tqp150-1-500x500.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Washing Machines"
+    },
+    {
+      "productId": "prod024",
+      "productName": "Walton Washing Machine WWM-AFT90W",
+      "brandName": "Walton",
+      "price": 622.50,
+      "rating": 4.0,
+      "picture": "https://eplaza.waltonbd.com/image/cache/data/WWM-AFT90W-1-500x500.jpg",
+      "category": "Home Appliances",
+      "subcategory": "Washing Machines"
+    }
+  ]
+}
