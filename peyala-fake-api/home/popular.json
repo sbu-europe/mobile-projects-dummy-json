@@ -1,0 +1,80 @@
+{
+    "status": "ok",
+    "status_message": "Query was successful",
+    "data": {
+        "popularItems": [
+            {
+                "id": "f0031",
+                "name": "Mutton Kacchi",
+                "branch": "Peyala Banani",
+                "catagory": "Burger",
+                "estimatedDeliveryTime": {
+                    "fromTime": 15,
+                    "toTime": 20
+                },
+                "price": 12.99,
+                "imageUrl": "https://api.ebangladesh.com/upload/shop/items/81e9f780-e23f-11ec-9146-1195449e8170/81e9f780-e23f-11ec-9146-1195449e8170.png"
+            },
+            {
+                "id": "f0032",
+                "name": "Beef Kalabhuna",
+                "branch": "Peyala Banani",
+                "catagory": "Burger",
+                "estimatedDeliveryTime": {
+                    "fromTime": 15,
+                    "toTime": 20
+                },
+                "price": 14.99,
+                "image": "https://i.ytimg.com/vi/4TgSHF608dU/maxresdefault.jpg"
+            },
+            {
+                "id": "f0033",
+                "name": "Mexican Pizza",
+                "branch": "Peyala Banani",
+                "catagory": "Burger",
+                "estimatedDeliveryTime": {
+                    "fromTime": 15,
+                    "toTime": 20
+                },
+                "price": 9.99,
+                "image": "https://www.chilipeppermadness.com/wp-content/uploads/2024/02/Mexican-Pizza-Recipe-SQ.jpg"
+            },
+            {
+                "id": "f0034",
+                "name": "Beff Stake",
+                "branch": "Peyala Banani",
+                "catagory": "Burger",
+                "estimatedDeliveryTime": {
+                    "fromTime": 15,
+                    "toTime": 20
+                },
+                "price": 15.99,
+                "image": "https://kitchenconfidante.com/wp-content/uploads/2022/05/Angus-Beef-Steak-Recipe-with-Garlic-Herb-Compound-Butter-kitchenconfidante.com-2745-FEATURED-IMAGE.jpg"
+            },
+            {
+                "id": "f0035",
+                "name": "Korean Pasta",
+                "branch": "Peyala Banani",
+                "catagory": "Burger",
+                "estimatedDeliveryTime": {
+                    "fromTime": 15,
+                    "toTime": 20
+                },
+                "price": 7.99,
+                "image": "https://www.halfbakedharvest.com/wp-content/uploads/2022/08/20-Minute-Korean-Beef-Sesame-Noodles-1.jpg"
+            },
+            {
+                "id": "f0036",
+                "name": "Chicken Ricebowl Masala",
+                "branch": "Peyala Banani",
+                "catagory": "Burger",
+                "estimatedDeliveryTime": {
+                    "fromTime": 15,
+                    "toTime": 20
+                },
+                "price": 8.99,
+                "image": "https://images.mrcook.app/recipe-image/0190d480-dfc9-7ae3-b7fa-1b543b7db0d4"
+            }
+        ]
+    }
+}
