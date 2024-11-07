@@ -1,0 +1,129 @@
+{
+  "tickets": [
+    {
+      "ticketId": "TKT-2024-001",
+      "userName": "alice_smith",
+      "secretKey": "sk_7f9a2b4d8e3c1f5",
+      "createdAt": "2024-01-15T09:30:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-002",
+      "userName": "bob_jones",
+      "secretKey": "sk_3e5d8c2f1a9b4h",
+      "createdAt": "2024-01-16T14:45:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-003",
+      "userName": "carol_wilson",
+      "secretKey": "sk_2h8k4m6n9p5r3t",
+      "createdAt": "2024-01-17T11:20:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-004",
+      "userName": "david_brown",
+      "secretKey": "sk_5t7v9x2z4b6n8m",
+      "createdAt": "2024-01-18T16:15:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-005",
+      "userName": "emma_davis",
+      "secretKey": "sk_1q3w5e7r9t2y4u",
+      "createdAt": "2024-01-19T08:50:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-006",
+      "userName": "frank_miller",
+      "secretKey": "sk_8i6u4y2t9r7e5w",
+      "createdAt": "2024-01-20T13:25:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-007",
+      "userName": "grace_taylor",
+      "secretKey": "sk_4d6f8h0j2l4n6p",
+      "createdAt": "2024-01-21T10:40:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-008",
+      "userName": "henry_wilson",
+      "secretKey": "sk_9b7v5c3x1z8n6m",
+      "createdAt": "2024-01-22T15:55:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-009",
+      "userName": "isabel_martinez",
+      "secretKey": "sk_2k4m6n8p0q2s4w",
+      "createdAt": "2024-01-23T12:10:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-010",
+      "userName": "jack_thompson",
+      "secretKey": "sk_5x7z9a2c4e6g8i",
+      "createdAt": "2024-01-24T09:15:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-011",
+      "userName": "kelly_anderson",
+      "secretKey": "sk_3b5d7f9h1j3l5n",
+      "createdAt": "2024-01-25T14:20:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-012",
+      "userName": "liam_parker",
+      "secretKey": "sk_6m8n0p2q4r6s8t",
+      "createdAt": "2024-01-26T11:30:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-013",
+      "userName": "mia_garcia",
+      "secretKey": "sk_1w3y5a7c9e2g4i",
+      "createdAt": "2024-01-27T16:40:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-014",
+      "userName": "noah_wright",
+      "secretKey": "sk_7h9j1l3n5p7r9t",
+      "createdAt": "2024-01-28T08:45:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-015",
+      "userName": "olivia_clark",
+      "secretKey": "sk_4b6d8f0h2j4l6n",
+      "createdAt": "2024-01-29T13:50:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-016",
+      "userName": "peter_adams",
+      "secretKey": "sk_8k0m2n4p6q8s0t",
+      "createdAt": "2024-01-30T10:55:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-017",
+      "userName": "quinn_foster",
+      "secretKey": "sk_5v7x9z1b3d5f7h",
+      "createdAt": "2024-01-31T15:00:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-018",
+      "userName": "rachel_hayes",
+      "secretKey": "sk_2u4w6y8a0c2e4g",
+      "createdAt": "2024-02-01T09:05:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-019",
+      "userName": "sam_cooper",
+      "secretKey": "sk_9i1k3m5n7p9r1t",
+      "createdAt": "2024-02-02T14:10:00Z"
+    },
+    {
+      "ticketId": "TKT-2024-020",
+      "userName": "tara_bennett",
+      "secretKey": "sk_6h8j0l2n4p6r8t",
+      "createdAt": "2024-02-03T11:15:00Z"
+    }
+  ],
+  "metadata": {
+    "totalCount": 20,
+    "lastUpdated": "2024-02-03T11:15:00Z",
+    "version": "1.0.0"
+  }
+}
