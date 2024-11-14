@@ -1,0 +1,43 @@
+{
+  "events": [
+    {
+      "event_id": "EVT001",
+      "event_name": "Sylhet VS Dhaka",
+      "event_place": "Sylhet",
+      "date_time": "2024-12-15T09:00:00",
+      "duration": "8 hours",
+      "capacity": 500,
+      "ticket_price": 299.99,
+      "organizer": "BPL",
+      "status": "upcoming"
+    },
+    {
+      "event_id": "EVT002",
+      "event_name": "Dhaka VS Cumilla",
+      "event_place": "Dhaka",
+      "date_time": "2024-12-20T16:30:00",
+      "duration": "6 hours",
+      "capacity": 2000,
+      "ticket_price": 75.00,
+      "organizer": "SoundWave Productions",
+      "status": "Upcoming"
+    },
+    {
+      "event_id": "EVT003",
+      "event_name": "Chattagram VS Rajshahi",
+      "event_place": "Chattagram",
+      "date_time": "2024-12-05T11:00:00",
+      "duration": "3 days",
+      "capacity": 1500,
+      "ticket_price": 150.00,
+      "organizer": "Culinary Arts Association",
+      "status": "Upcoming",
+      "tags": ["food", "wine", "culinary", "expo"]
+    }
+  ],
+  "metadata": {
+    "total_events": 3,
+    "last_updated": "2024-11-14T10:30:00",
+    "version": "1.0"
+  }
+}
